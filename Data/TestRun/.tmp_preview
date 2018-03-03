@@ -1,0 +1,13 @@
+#INFOFILE1.1 - Do not remove this line!
+TestRun.Name =
+Vehicle = Revolve2018_TV_coord
+Trailer =
+Trailer2 =
+Tire.0 = Revolve2017/ContinentalC16_ScaledWarm_RaceDriver_2
+Tire.1 = Revolve2017/ContinentalC16_ScaledWarm_RaceDriver_2
+Tire.2 = Revolve2017/ContinentalC16_ScaledWarm_RaceDriver_2
+Tire.3 = Revolve2017/ContinentalC16_ScaledWarm_RaceDriver_2
+Road.FName = .tmp_desktop-e3l8d03_OAR.1
+Road.VhclStartPos = 0.0 0 0
+Road.VhclRoute = NotSpecified
+Road.RouteId =

@@ -1,0 +1,40 @@
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-13 17:43:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+
+TIME	4.503
+SIM_END		axxxplot	4.502s	0.00395241m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-13 17:44:19
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+
+TIME	25.000
+SIM_END		axxxplot	24.996s	0.023071m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-13 17:56:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+
+TIME	3.315
+SIM_END		axxxplot	3.311s	0.00282829m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-13 17:58:49
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+
+TIME	9.724
+SIM_END		axxxplot	9.72s	0.0088313m

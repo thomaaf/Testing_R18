@@ -1,0 +1,98 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-04 23:51:50
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	600.004
+SIM_END		FS_Competition_Germany_2006_ELD	600s	7293.97m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 00:02:55
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	600.004
+SIM_END		FS_Competition_Germany_2006_ELD	600s	5201.32m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 13:01:24
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	600.004
+SIM_END		FS_Competition_Germany_2006_ELD	600s	6921.71m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 13:12:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	600.004
+SIM_END		FS_Competition_Germany_2006_ELD	600s	7336.58m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 13:29:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	597.989
+SIM_END		FS_Competition_Germany_2006_ELD	597.985s	0.6106m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 13:41:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	186.177
+SIM_END		FS_Competition_Germany_2006_ELD	186.173s	1980.95m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 13:45:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	600.004
+SIM_END		FS_Competition_Germany_2006_ELD	600s	7258.56m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 14:20:27
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	600.004
+SIM_END		FS_Competition_Germany_2006_ELD	600s	0.612659m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 14:45:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	600.004
+SIM_END		FS_Competition_Germany_2006_ELD	600s	0.612659m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-05-05 14:55:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+

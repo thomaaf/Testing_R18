@@ -1,0 +1,382 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 15:54:40
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.471
+ERROR		Vehicle leaves road at about x=-27.9046, y=21.6876 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.473s	5142.09m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 18:27:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.473
+ERROR		Vehicle leaves road at about x=-27.8981, y=21.6274 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.475s	5142.14m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 18:50:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	25.457
+ERROR		Vehicle leaves road at about x=5.83925, y=-2.48734 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	25.459s	315.911m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 19:32:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.473
+ERROR		Vehicle leaves road at about x=-27.8981, y=21.6274 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.475s	5142.14m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-15 14:40:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.394
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.39s	5140.4m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-15 18:41:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.424
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.42s	5141.04m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 00:10:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	20.604
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	20.6s	9.9964m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 00:18:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	20.958
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	20.954s	10.3537m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 00:29:00
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	206.820
+ERROR		Vehicle leaves road at about x=-26.1773, y=14.7838 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	206.822s	1062.89m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 00:40:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	168.474
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	168.47s	699.093m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 00:45:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	149.834
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	149.83s	556.631m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 00:51:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	149.894
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	149.89s	557.079m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 01:04:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.794
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.79s	5140.76m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 05:01:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.804
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.8s	5141.12m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 05:30:49
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.454
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.45s	5133.44m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 07:03:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.870
+ERROR		Vehicle leaves road at about x=-27.8222, y=21.0583 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.87s	5142.61m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 07:31:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	0s	0m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 07:32:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.868
+ERROR		Vehicle leaves road at about x=-27.8489, y=21.246 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.87s	5142.43m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 07:48:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.868
+ERROR		Vehicle leaves road at about x=-27.8489, y=21.246 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.87s	5142.43m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 08:35:03
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.868
+ERROR		Vehicle leaves road at about x=-27.8489, y=21.246 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.87s	5142.43m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 08:47:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.694
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.69s	5138.6m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 09:18:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	229.904
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	229.9s	1315.67m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 09:33:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.754
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.75s	5139.97m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 17:57:24
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	165.284
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	165.28s	677.927m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 18:03:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.876
+ERROR		Vehicle leaves road at about x=-27.8218, y=21.0478 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.878s	5142.61m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 18:54:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.872
+ERROR		Vehicle leaves road at about x=-27.8399, y=21.1808 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.874s	5142.5m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 21:35:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.872
+ERROR		Vehicle leaves road at about x=-27.8399, y=21.1808 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.874s	5142.5m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-16 22:35:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.872
+ERROR		Vehicle leaves road at about x=-27.8399, y=21.1808 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.874s	5142.5m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-17 22:56:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	21.799
+SIM_END		skidpad_ELD	21.798s	256.98m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-17 22:58:03
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	33.730
+SIM_END		fart	33.729s	997.037m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-17 23:05:53
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	31.117
+SIM_END		fart	31.116s	997.006m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-18 00:18:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	5.008
+SIM_END		fart	5.004s	120.04m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-18 03:41:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	21.414
+SIM_END		fart	21.41s	671.099m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-18 03:43:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	5.890
+SIM_END		fart	5.886s	142.87m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-18 04:36:56
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	10.512
+SIM_END		fart	10.508s	285.681m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-18 05:15:41
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	7.681
+SIM_END		fart	7.677s	198.208m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	fart	2017-07-18 05:19:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	fart
+
+TIME	4.488
+SIM_END		fart	4.484s	99.5501m

@@ -1,0 +1,18 @@
+; C:\01_Revolve\R17_TV\HIL_PCAN_setup\manual_setpoints_drive_enable.xmt
+; CAN messages saved by PCAN-View 4.1.1
+;
+; Columns descriptions:
+; ~~~~~~~~~~~~~~~~~~~~~
+; +Message ID
+; |            +Cycle time in ms (0=manual)
+; |            |  +Data Length
+; |            |  |  +Frame type
+; |            |  |  |  +Message data
+; |            |  |  |  |
+353h           0  0  D ; reset inverter error
+472h           0  0  D
+475h           0  1  D 00h
+185h          10  8  D 00h 07h 20h 4Eh FFh 04h 00h 00h
+186h          10  8  D 00h 07h 20h 4Eh FFh 04h 00h 00h
+189h          10  8  D 00h 07h 20h 4Eh FFh 04h 00h 00h
+18Ah          10  8  D 00h 07h 20h 4Eh FFh 04h 00h 00h

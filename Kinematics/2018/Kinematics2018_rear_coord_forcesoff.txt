@@ -1,0 +1,14 @@
+
+  ----------------------------------------------------------------------------------------------------------------------------
+  IPGKinematics  Version 3.6.7                                            Model: Querlenker                                   
+  ----------------------------------------------------------------------------------------------------------------------------
+
+   Table: Simplifications                                                 Suspension Kinematics 2017                          
+
+   Mass-Forces         - switched off                       
+   Stabilizer          - switched off                       
+  
+   Pull/Push Rod       - Stiffness             [N/mm] :       10000.00
+                       - Spring-Unit           [N/mm] :           0.00
+   Bushings            - Stiffness             [N/mm] :       10000.00
+

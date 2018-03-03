@@ -1,0 +1,98 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-28 14:14:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	66.874
+		Lap   1: t=  66.873s	Dist=775.5881m	sRoad=1.0829m
+TIME	132.394
+		Lap   2: t=  65.520s	Dist=777.5363m	sRoad=1.0721m
+TIME	197.867
+		Lap   3: t=  65.473s	Dist=777.5328m	sRoad=1.0718m
+TIME	263.341
+		Lap   4: t=  65.474s	Dist=777.5352m	sRoad=1.0741m
+TIME	328.814
+		Lap   5: t=  65.473s	Dist=777.5369m	sRoad=1.0779m
+TIME	394.288
+		Lap   6: t=  65.474s	Dist=777.5355m	sRoad=1.0824m
+TIME	430.807
+SIM_END		Examples_FS/FS_Competition_Germany_2006	430.803s	5103.26m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-28 14:20:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	65.962
+		Lap   1: t=  65.961s	Dist=775.0156m	sRoad=1.0807m
+TIME	130.663
+		Lap   2: t=  64.701s	Dist=777.1033m	sRoad=1.0783m
+TIME	195.131
+		Lap   3: t=  64.468s	Dist=776.8657m	sRoad=1.0742m
+TIME	259.749
+		Lap   4: t=  64.618s	Dist=776.9501m	sRoad=1.0786m
+TIME	324.365
+		Lap   5: t=  64.616s	Dist=777.0423m	sRoad=1.0721m
+TIME	389.045
+		Lap   6: t=  64.680s	Dist=777.1165m	sRoad=1.0800m
+TIME	453.535
+		Lap   7: t=  64.490s	Dist=776.8704m	sRoad=1.0827m
+TIME	518.094
+		Lap   8: t=  64.559s	Dist=776.9886m	sRoad=1.0756m
+TIME	582.676
+		Lap   9: t=  64.582s	Dist=777.0053m	sRoad=1.0821m
+TIME	600.005
+SIM_END		Examples_FS/FS_Competition_Germany_2006	600.004s	7220.57m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-28 14:45:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	65.962
+		Lap   1: t=  65.961s	Dist=775.0156m	sRoad=1.0807m
+TIME	130.663
+		Lap   2: t=  64.701s	Dist=777.1033m	sRoad=1.0783m
+TIME	195.131
+		Lap   3: t=  64.468s	Dist=776.8657m	sRoad=1.0742m
+TIME	259.749
+		Lap   4: t=  64.618s	Dist=776.9501m	sRoad=1.0786m
+TIME	324.365
+		Lap   5: t=  64.616s	Dist=777.0423m	sRoad=1.0721m
+TIME	389.045
+		Lap   6: t=  64.680s	Dist=777.1165m	sRoad=1.0800m
+TIME	453.535
+		Lap   7: t=  64.490s	Dist=776.8704m	sRoad=1.0827m
+TIME	518.094
+		Lap   8: t=  64.559s	Dist=776.9886m	sRoad=1.0756m
+TIME	582.676
+		Lap   9: t=  64.582s	Dist=777.0053m	sRoad=1.0821m
+TIME	600.005
+SIM_END		Examples_FS/FS_Competition_Germany_2006	600.004s	7220.57m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-03-02 11:15:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	65.962
+		Lap   1: t=  65.961s	Dist=775.0156m	sRoad=1.0807m
+TIME	130.663
+		Lap   2: t=  64.701s	Dist=777.1033m	sRoad=1.0783m
+TIME	195.131
+		Lap   3: t=  64.468s	Dist=776.8657m	sRoad=1.0742m
+TIME	259.749
+		Lap   4: t=  64.618s	Dist=776.9501m	sRoad=1.0786m
+TIME	324.365
+		Lap   5: t=  64.616s	Dist=777.0423m	sRoad=1.0721m
+TIME	383.518
+SIM_END		Examples_FS/FS_Competition_Germany_2006	383.514s	4602.12m

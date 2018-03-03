@@ -1,0 +1,8 @@
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-18 15:46:36
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+

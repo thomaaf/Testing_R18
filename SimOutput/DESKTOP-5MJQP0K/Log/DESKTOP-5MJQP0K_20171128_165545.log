@@ -1,0 +1,52 @@
+APPLICATION	CarMaker 6.0.3 - Car_Generic #33 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:31:10
+FIRST_INIT	(internal default used)	2017-11-28 16:55:45
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:55:45
+SIM_START	Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-11-28 16:55:46
+TIME	0.003
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	100.011
+SIM_END		Lateral Dynamics/ZigZag 15m/Slalom_15m	100s	0.0919072m
+TIME	0.001
+TIME	103.120
+SIM_START	Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-11-28 16:56:23
+TIME	0.004
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	100.009
+SIM_END		Lateral Dynamics/ZigZag 15m/Slalom_15m	100s	0.0919072m
+TIME	115.205
+SIM_START	skidpad_ELD	2017-11-28 16:59:03
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	30.009
+SIM_END		skidpad_ELD	30s	0.0272597m
+SIM_START	skidpad_ELD	2017-11-28 16:59:17
+TIME	0.004
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	30.009
+SIM_END		skidpad_ELD	30s	0.0272597m
+SIM_START	skidpad_ELD	2017-11-28 16:59:30
+TIME	0.005
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	30.009
+SIM_END		skidpad_ELD	30s	0.0272597m
+TIME	35.548
+SHUTDOWN	CarMaker quick shutdown initiated
+

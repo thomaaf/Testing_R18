@@ -1,0 +1,118 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	2017-02-09 12:19:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	2017-02-09 12:28:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	2017-02-09 12:29:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial
+
+TIME	35.868
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	35.867s	595.302m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	2017-02-09 13:12:35
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial
+
+TIME	35.868
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	35.867s	595.302m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	2017-02-09 14:53:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial
+
+TIME	35.868
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	35.867s	595.302m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	2017-02-09 14:57:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial
+
+TIME	35.868
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15mTrial	35.867s	595.302m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-09 14:58:44
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	100.004
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	100.003s	0.00251648m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-09 15:00:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.868
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.867s	595.302m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-09 15:06:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-09 15:09:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-09 19:28:33
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-09 19:29:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.896s	595.173m

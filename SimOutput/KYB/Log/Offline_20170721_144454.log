@@ -1,0 +1,1345 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 14:46:51
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	22.461
+SIM_END		skidpad_ELD	22.46s	256.856m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 14:52:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.286
+SIM_END		skidpad_ELD	23.285s	259.902m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 14:54:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	14.311
+ERROR		RoadSensor Geo:  xyz (26.53 3.98 -0.01) not found on Road
+SIM_ABORT	skidpad_ELD	14.313s	140.446m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 14:54:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	14.311
+ERROR		RoadSensor Geo:  xyz (26.53 3.98 -0.01) not found on Road
+SIM_ABORT	skidpad_ELD	14.313s	140.446m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 15:03:19
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.464
+SIM_END		skidpad_ELD	23.463s	258.128m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 15:08:50
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	17.364
+SIM_END		skidpad_ELD	17.36s	179.139m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 15:37:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	17.354
+SIM_END		skidpad_ELD	17.35s	179.013m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 15:40:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	16.994
+SIM_END		skidpad_ELD	16.99s	174.248m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 15:42:35
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	17.174
+SIM_END		skidpad_ELD	17.17s	176.684m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 15:47:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	17.164
+SIM_END		skidpad_ELD	17.16s	176.551m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 16:12:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	17.154
+SIM_END		skidpad_ELD	17.15s	176.418m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 16:15:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	19.260
+ERROR		Vehicle leaves road at about x=17.5961, y=14.1139 TireNo=0
+SIM_ABORT	skidpad_ELD	19.262s	201.165m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 16:51:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	19.260
+ERROR		Vehicle leaves road at about x=17.5961, y=14.1139 TireNo=0
+SIM_ABORT	skidpad_ELD	19.262s	201.165m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 16:55:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	19.260
+ERROR		Vehicle leaves road at about x=17.5961, y=14.1139 TireNo=0
+SIM_ABORT	skidpad_ELD	19.262s	201.165m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 16:56:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	17.164
+SIM_END		skidpad_ELD	17.16s	176.551m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:08:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	13.614
+SIM_END		skidpad_ELD	13.61s	131.386m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:10:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	13.614
+SIM_END		skidpad_ELD	13.61s	131.386m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:11:55
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.164
+SIM_END		skidpad_ELD	23.163s	259.461m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:24:24
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	13.614
+SIM_END		skidpad_ELD	13.61s	131.386m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:26:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.234
+SIM_END		skidpad_ELD	23.233s	260.027m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:30:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.234
+SIM_END		skidpad_ELD	23.233s	260.027m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:37:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.234
+SIM_END		skidpad_ELD	23.233s	260.027m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 17:38:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.234
+SIM_END		skidpad_ELD	23.233s	260.027m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 18:14:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	16.024
+ERROR		Vehicle leaves road at about x=5.53291, y=17.4834 TireNo=1
+SIM_ABORT	skidpad_ELD	16.026s	162.649m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 18:19:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	16.024
+ERROR		Vehicle leaves road at about x=5.53291, y=17.4834 TireNo=1
+SIM_ABORT	skidpad_ELD	16.026s	162.649m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 19:06:32
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	4.564
+SIM_END		skidpad_ELD	4.56s	18.393m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 19:47:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	2.864
+SIM_END		skidpad_ELD	2.86s	6.71589m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 19:52:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+SIM_END		skidpad_ELD	0.37s	0.0156514m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 20:20:40
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	5.254
+SIM_END		skidpad_ELD	5.25s	21.2645m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 20:28:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+SIM_END		skidpad_ELD	0.5s	0.0504306m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 20:31:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+SIM_END		skidpad_ELD	0s	0m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 20:33:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+SIM_END		skidpad_ELD	0s	0m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 20:35:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+SIM_END		skidpad_ELD	0s	0m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 20:48:35
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.087
+SIM_END		skidpad_ELD	23.086s	257.936m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 21:22:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	15.854
+SIM_END		skidpad_ELD	15.85s	159.582m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 21:35:34
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	4.444
+SIM_END		skidpad_ELD	4.44s	17.3807m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:11:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.446
+SIM_END		skidpad_ELD	23.445s	261.667m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:12:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.446
+SIM_END		skidpad_ELD	23.445s	261.667m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:13:19
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.016
+SIM_END		skidpad_ELD	23.015s	257.084m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:19:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.446
+SIM_END		skidpad_ELD	23.445s	261.667m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:25:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	25.868
+SIM_END		skidpad_ELD	25.867s	259.238m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:35:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	25.872
+SIM_END		skidpad_ELD	25.871s	259.288m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:37:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	25.866
+SIM_END		skidpad_ELD	25.865s	259.218m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-21 23:41:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	25.866
+SIM_END		skidpad_ELD	25.865s	259.218m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:07:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	25.866
+SIM_END		skidpad_ELD	25.865s	259.218m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:11:25
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	23.194
+SIM_END		skidpad_ELD	23.193s	257.62m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:15:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	4.937
+SIM_END		skidpad_ELD	4.933s	21.7142m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:15:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	7.302
+SIM_END		skidpad_ELD	7.301s	75.0255m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:16:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	7.302
+SIM_END		skidpad_ELD	7.301s	75.0255m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:17:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	6.474
+SIM_END		skidpad_ELD	6.473s	75.0176m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:18:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	4.384
+SIM_END		skidpad_ELD	4.38s	46.0225m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 00:45:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	6.473
+SIM_END		skidpad_ELD	6.472s	75.0252m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 01:51:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	6.006
+SIM_END		skidpad_ELD	6.002s	68.5085m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 02:13:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+SIM_END		skidpad_ELD	0s	0m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 02:35:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	6.473
+SIM_END		skidpad_ELD	6.472s	75.0258m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 02:36:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	4.558
+SIM_END		skidpad_ELD	4.554s	48.4535m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 02:37:23
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	4.446
+ERROR		Roll angle too high (-80.20 deg)
+SIM_ABORT	skid	4.448s	47.0106m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 02:39:42
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	4.446
+ERROR		Roll angle too high (-80.20 deg)
+SIM_ABORT	skid	4.448s	47.0106m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 02:43:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	4.446
+ERROR		Roll angle too high (-80.20 deg)
+SIM_ABORT	skid	4.448s	47.0106m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 02:44:42
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	3.844
+SIM_END		skid	3.84s	40.0297m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 02:48:20
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	4.494
+ERROR		Roll angle too high (-80.15 deg)
+SIM_ABORT	skid	4.496s	47.6085m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 02:50:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	3.484
+SIM_END		skid	3.48s	35.4622m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 03:26:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	4.483
+ERROR		Roll angle too high (-80.07 deg)
+SIM_ABORT	skid	4.485s	47.4289m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 03:27:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	3.994
+SIM_END		skid	3.99s	41.8524m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 03:33:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	3.684
+SIM_END		skid	3.68s	38.0947m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 03:44:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	2.614
+SIM_END		skid	2.61s	24.1155m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 03:58:34
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	5.334
+SIM_END		skid	5.33s	52.284m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 04:17:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	13.954
+SIM_END		skid	13.95s	156.325m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 04:23:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	4.754
+SIM_END		skid	4.75s	45.198m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 04:26:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	13.874
+SIM_END		skid	13.87s	155.374m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 04:28:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	22.169
+SIM_END		skid	22.168s	256.829m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 04:31:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	22.168
+SIM_END		skid	22.167s	256.816m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 04:33:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	22.172
+SIM_END		skid	22.171s	256.864m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 04:50:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	2.434
+SIM_END		skid	2.43s	17.2902m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-07-22 04:59:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	96.884
+SIM_END		FS_Competition_Germany_2006_ELD	96.88s	1178.85m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-07-22 05:03:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+SIM_END		FS_Competition_Germany_2006_ELD	1.58s	7.21268m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD	2017-07-22 05:13:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+SIM_END		FS_Competition_Germany_2006_ELD	1.09s	2.56109m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-22 05:14:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+SIM_END		skidpad_ELD	1.34s	6.35543m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 05:15:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	12.804
+SIM_END		skid	12.8s	142.526m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 05:48:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	22.171
+SIM_END		skid	22.17s	256.854m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 06:02:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	22.171
+SIM_END		skid	22.17s	256.854m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 06:44:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	7.467
+SIM_END		skid	7.463s	79.7963m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 06:44:47
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.196
+SIM_END		skid	26.195s	593.341m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 06:49:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.201
+SIM_END		skid	26.2s	593.401m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 06:54:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	11.384
+SIM_END		skid	11.38s	306.244m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 06:55:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	10.524
+SIM_END		skid	10.52s	285.959m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:05:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	10.444
+SIM_END		skid	10.44s	283.704m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:06:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.238
+SIM_END		skid	26.237s	593.433m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:18:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.238
+SIM_END		skid	26.237s	593.432m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:21:24
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+SIM_END		skid	0.13s	0.000183421m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:21:47
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.226
+SIM_END		skid	26.225s	593.44m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:26:36
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.217
+SIM_END		skid	26.216s	593.45m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:28:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.143
+SIM_END		skid	26.142s	593.424m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:29:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	3.291
+ERROR		Pitch angle too high (-80.31 deg)
+SIM_ABORT	skid	3.293s	66.1416m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:34:33
+TIME	0.000
+SIMULATE	skid
+
+TIME	9.962
+SIM_END		skid	9.958s	6.59492e-005m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:35:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	35.653
+SIM_END		skid	35.652s	595.059m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:44:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	28.883
+ERROR		Vehicle leaves road at about x=504.182, y=-15.5056 TireNo=3
+SIM_ABORT	skid	28.885s	536.065m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:45:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	17.117
+SIM_END		skid	17.113s	368.197m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:45:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	35.847
+ERROR		Vehicle leaves road at about x=517.308, y=15.5036 TireNo=1
+SIM_ABORT	skid	35.849s	566.309m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:46:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	34.986
+SIM_END		skid	34.982s	502.64m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:47:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	35.079
+ERROR		Vehicle leaves road at about x=448.241, y=-15.5024 TireNo=1
+SIM_ABORT	skid	35.081s	462.786m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:48:27
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	51.323
+SIM_END		skid	51.322s	594.691m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:49:50
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	33.788
+SIM_END		skid	33.784s	444.701m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:50:33
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	24.024
+SIM_END		skid	24.02s	363.298m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:51:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	51.323
+SIM_END		skid	51.322s	594.691m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:54:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 3823.23 rpm)
+TIME	0.000
+SIMULATE	skid
+
+TIME	54.726
+SIM_END		skid	54.725s	595.555m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 07:59:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	73.707
+SIM_END		skid	73.706s	597.88m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 08:01:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	56.792
+SIM_END		skid	56.791s	597.354m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 08:03:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	25.919
+SIM_END		skid	25.915s	323.926m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 08:03:51
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	32.442
+SIM_END		skid	32.441s	593.813m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skid	2017-07-22 08:05:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	32.439
+SIM_END		skid	32.438s	593.808m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 15:48:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	33.344
+SIM_END		axxx	33.343s	997.001m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 15:49:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	33.344
+SIM_END		axxx	33.343s	997.001m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 15:57:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	33.445
+SIM_END		axxx	33.444s	997.019m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:02:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	33.445
+SIM_END		axxx	33.444s	997.019m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:04:20
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	33.408
+SIM_END		axxx	33.407s	997.015m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:06:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	33.344
+SIM_END		axxx	33.343s	997.001m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:09:54
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	113.673m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:10:50
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	113.692m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:44:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	120.232m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:55:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	120.232m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 16:56:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	117.732m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 17:53:49
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	97.9308m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 17:54:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	97.9308m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 17:55:36
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	97.7992m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 17:56:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	97.9737m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 18:03:41
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	97.9737m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 18:07:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	97.7976m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-22 18:08:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	5.004
+SIM_END		axxx	5.003s	97.7994m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-23 12:27:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	8.124
+SIM_END		skidpad_ELD	8.12s	97.9188m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc	2017-07-23 12:29:00
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	7.281
+SIM_END		r25m_circle_ELD_slowAcc	7.277s	2.33057m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc	2017-07-23 12:29:32
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	463.234
+SIM_END		r25m_circle_ELD_slowAcc	463.23s	10947.5m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	skidpad_ELD	2017-07-23 13:08:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	4.154
+SIM_END		skidpad_ELD	4.15s	42.2625m

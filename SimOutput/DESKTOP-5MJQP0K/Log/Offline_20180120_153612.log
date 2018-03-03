@@ -1,0 +1,154 @@
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 15:37:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	15.499
+ERROR		Vehicle leaves road at about x=160.521, y=-58.5521 TireNo=1
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby	15.501s	212.312m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 15:43:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	15.499
+ERROR		Vehicle leaves road at about x=160.521, y=-58.5521 TireNo=1
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby	15.501s	212.312m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 15:52:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.217
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.216s	773.99m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 15:59:40
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	14.286
+ERROR		Vehicle leaves road at about x=148.343, y=-54.4017 TireNo=0
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby	14.288s	216.754m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 16:04:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	15.721
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	15.717s	249.445m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD	2018-01-20 16:08:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD
+
+TIME	71.893
+SIM_END		FS_Competition_Germany_2006_ELD	71.892s	774.798m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 16:11:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	14.286
+ERROR		Vehicle leaves road at about x=148.343, y=-54.4017 TireNo=0
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby	14.288s	216.754m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 16:13:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 16:17:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 16:18:25
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 16:50:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 17:09:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 17:43:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 18:25:54
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2018-01-20 18:28:20
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.157
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	52.156s	774.09m

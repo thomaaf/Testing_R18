@@ -1,0 +1,133 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:05:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	39.924
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	39.923s	257.601m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:11:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	39.924
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	39.923s	257.601m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:12:23
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	14.144
+ERROR		Vehicle leaves road at about x=15.946, y=3.58165 TireNo=0
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	14.146s	140.555m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:12:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	25.223
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	25.222s	272.877m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:15:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	27.549
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	27.548s	270.981m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:15:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	19.062
+ERROR		Vehicle leaves road at about x=4.38311, y=15.9571 TireNo=1
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	19.064s	182.506m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:16:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	21.972
+ERROR		Vehicle leaves road at about x=26.3726, y=3.50349 TireNo=1
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	21.974s	211.589m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-09 22:16:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	28.383
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	28.382s	284.094m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-10 13:24:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	16.862
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	16.858s	156.107m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-10 13:24:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	28.383
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	28.382s	284.094m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-10 13:24:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	28.383
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	28.382s	284.094m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-10 15:43:33
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	28.383
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	28.382s	284.094m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad_AggressiveDriver	2017-02-10 15:44:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad_AggressiveDriver
+
+TIME	28.383
+SIM_END		Examples_FS/FS_Competition_SkidPad_AggressiveDriver	28.382s	284.094m

@@ -1,0 +1,59 @@
+APPLICATION	CarMaker 6.0.3 - Car_Generic #33 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:31:10
+FIRST_INIT	(internal default used)	2018-01-26 16:06:14
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:06:14
+TIME	19.519
+SIM_START	unknown	2018-01-26 16:09:29
+TIME	0.004
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		IPGDriver: Race driver needs knowledge!  (id=400)
+SIM_ABORT	unknown	0s	0m
+TIME	6.017
+SIM_START	unknown	2018-01-26 16:10:29
+TIME	0.003
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	4.505
+SIM_END		unknown	4.5s	0.00279743m
+TIME	50.325
+SIM_START	unknown	2018-01-26 16:18:19
+TIME	0.003
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	4.505
+SIM_END		unknown	4.5s	0.00279743m
+TIME	0.001
+SIM_START	unknown	2018-01-26 16:21:13
+TIME	0.002
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	8.959
+SIM_END		unknown	8.955s	0.00697596m
+TIME	13.074
+SIM_START	unknown	2018-01-26 16:22:11
+TIME	0.003
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	57.214
+SIM_END		unknown	57.21s	0.0519914m
+TIME	0.001
+SIM_START	unknown	2018-01-26 16:23:22
+TIME	0.004
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	169.878
+SHUTDOWN	CarMaker quick shutdown initiated
+
+SIM_END		unknown	169.878s	0.157107m

@@ -1,0 +1,8 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-03-19 14:33:25
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	600.005
+SIM_END		Examples_FS/FS_Competition_Germany_2006	600.004s	0.0572341m

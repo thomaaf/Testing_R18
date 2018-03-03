@@ -1,0 +1,22 @@
+
+---
+Date:
+	Tue Jan 30 15:36:58 +0100 2018
+Testrun:
+	
+Motion Data:
+	C:/CM_Projects/R18_TV/SimOutput/DESKTOP-E3L8D03/20180126/unknown_161029.erg
+Missing Quantitites:
+	Vhcl.Distance   Vhcl.FR.Fz      Vhcl.RL.FyVhcl.RR.rot
+	Vhcl.FL.Fx      Vhcl.FR.rot     Vhcl.RL.FzVhcl.RR.rx
+	Vhcl.FL.Fy      Vhcl.FR.rx      Vhcl.RL.rotVhcl.RR.ry
+	Vhcl.FL.Fz      Vhcl.FR.ry      Vhcl.RL.rxVhcl.RR.rz
+	Vhcl.FL.rot     Vhcl.FR.rz      Vhcl.RL.ryVhcl.RR.tx
+	Vhcl.FL.rx      Vhcl.FR.tx      Vhcl.RL.rzVhcl.RR.ty
+	Vhcl.FL.ry      Vhcl.FR.ty      Vhcl.RL.txVhcl.RR.tz
+	Vhcl.FL.rz      Vhcl.FR.tz      Vhcl.RL.tyVhcl.Roll
+	Vhcl.FL.tx      Vhcl.Fr1.x      Vhcl.RL.tzVhcl.Steer.Ang
+	Vhcl.FL.ty      Vhcl.Fr1.y      Vhcl.RR.FxVhcl.Steer.Trq
+	Vhcl.FL.tz      Vhcl.Fr1.z      Vhcl.RR.FyVhcl.Yaw
+	Vhcl.FR.Fx      Vhcl.Pitch      Vhcl.RR.FzVhcl.v
+	Vhcl.FR.Fy      Vhcl.RL.Fx      

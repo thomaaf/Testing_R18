@@ -1,0 +1,119 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-Driver 5
+DriverResult.nResult = 1
+DriverResult.0.Info.Time = 1789.59
+DriverResult.0.Info.Dist = 18845.35
+DriverResult.0.Info.RoadDist = 22328.95
+DriverResult.0.Info.Time1970 = 1517160437
+DriverResult.0.Learn.Phase = 999
+DriverResult.0.Learn.PhaseTxt = Final
+Driver.ParamIdent = IPGDriver 5
+DriverResult.0.Knowl.Vehicle.xJerkMax = 500.000
+DriverResult.0.Knowl.Vehicle.yJerkMax = 500.000
+DriverResult.0.Knowl.Vehicle.psiJerkMax = 5000.000
+DriverResult.0.Knowl.Vehicle.t_TPacc = 0.001
+DriverResult.0.Knowl.Long.tStart = 0.000
+DriverResult.0.Knowl.Long.tPreStart = 0.100
+DriverResult.0.Knowl.Long.StartRpmOffset = 500.00
+DriverResult.0.Knowl.Long.tActionMin = 0.500
+DriverResult.0.Knowl.Long.dtSwitchGear = 0.000
+DriverResult.0.Knowl.Long.AccPosMax = 1.00
+DriverResult.0.Knowl.Long.BrakePedalFMax = 1.00
+DriverResult.0.Knowl.Long.BrakeLeverFMax = 1.00
+DriverResult.0.Knowl.Long.ThrottleVelRelease = 10.000
+DriverResult.0.Knowl.Long.ThrottleVelPush = 10.000
+DriverResult.0.Knowl.Long.BrakeVelRelease = 10.000
+DriverResult.0.Knowl.Long.BrakeVelPush = 10.000
+DriverResult.0.Knowl.Long.ActuatorAccMax = 1000.000
+DriverResult.0.Knowl.Long.ThrottleAmp = 1.000
+DriverResult.0.Knowl.Long.BrakeAmp = 1.000
+DriverResult.0.Knowl.Long.ClutchAmp = 1.000
+DriverResult.0.Knowl.Lat.tPreview = 0.696
+DriverResult.0.Knowl.Lat.tYawPro = 0.030
+DriverResult.0.Knowl.Lat.tPreDyn = 0.032
+DriverResult.0.Knowl.Lat.StWhlTorqueAmplify = 1.000
+DriverResult.0.Knowl.Lat.StWhlTorqueAmplifyC = 1.000
+DriverResult.0.Knowl.Lat.StWhlTorqueAmplifyV = 1.000
+DriverResult.0.Knowl.Lat.LimitSideSlip = 9.412
+DriverResult.0.Knowl.Long.tPreviewAcc = 0.381
+DriverResult.0.Knowl.Long.tPreviewBra = 0.392
+DriverResult.0.Knowl.Long.tPreEngDyn = 0.037
+DriverResult.0.Knowl.Long.tPreBraDyn = 0.022
+DriverResult.0.Knowl.Long.tPreEngDead = 0.001
+DriverResult.0.Knowl.Long.tPreBraDead = 0.015
+DriverResult.0.Knowl.Vehicle.iDiff = 3.00000
+DriverResult.0.Knowl.Vehicle.rWheel = 0.23098
+DriverResult.0.Knowl.Vehicle.iFGear = 2.50000	2.06700	1.75000	1.55500	1.40900	1.30000
+DriverResult.0.Knowl.Vehicle.iBGear = -4.00000
+DriverResult.0.Learn.JerkYRed = 0.050
+DriverResult.0.Learn.PT_Kind = 2
+DriverResult.0.Learn.PT_SlipMax = 1.728	1.728	2.047	2.047
+DriverResult.0.Learn.PT_h_COG = 0.063
+DriverResult.0.Learn.nEngineIdle = 126
+DriverResult.0.Learn.nEngineMax = 19597
+DriverResult.0.Learn.vIdle = 15.000
+DriverResult.0.Learn.vMax = 109.442
+DriverResult.0.Learn.G2GearNo = 2
+DriverResult.0.Learn.G3GearNo = 3
+DriverResult.0.Learn.vG2nEng025 = 27.360
+DriverResult.0.Learn.vG2nEng075 = 43.777
+DriverResult.0.Learn.axBra_vG2nEng05 = -20.689
+DriverResult.0.Learn.axAccG2 = 15.172
+DriverResult.0.Learn.axDragG1 = 0.500
+DriverResult.0.Learn.tYawPro_YawAcc = 106.232
+DriverResult.0.Learn.tYawPro_StWhlA = 4.048
+DriverResult.0.Learn.vnEng05 = 18	36	55	73	91
+DriverResult.0.Learn.axAccMax = 1.00	1.00	1.00	1.00	1.00
+DriverResult.0.Learn.Engine.TrqMax:
+	# 'nEngine [rpm]'	'Trq [Nm]'
+	7772	    0.00
+	7718	    0.00
+	7638	    0.00
+	7625	    0.00
+	7616	    0.00
+DriverResult.0.Learn.Engine.PwrMax:
+	# 'nEngine [rpm]'	'Pwr [kW]'
+	10992	  0.0000
+	10027	  0.0000
+	10000	  0.0000
+	9983	  0.0000
+	9981	  0.0000
+DriverResult.0.Learn.NEng_S = 1
+DriverResult.0.Learn.nEngine.MaxSpeed:
+	# 'nEngineMin [rpm]'	'nEngineMax [rpm]'
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+DriverResult.0.Learn.nEngine.Standard:
+	# 'nEngineMin [rpm]'	'nEngineMax [rpm]'
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+DriverResult.0.Learn.ayMax = 1.74	15.17	16.76	21.33	24.50
+DriverResult.0.Learn.StWhlA_ayMax = 19.31	61.47	42.51	31.87	23.49
+DriverResult.0.Learn.RaceLearnRate = 0.750
+DriverResult.0.Knowl.Long.SlipMax:
+	# 'Speed [kmh]'	'LongSlip [%]'	'SideSlipAng [deg]'
+	33.75	   4.07	   2.33
+	43.63	   4.87	   2.79
+	59.10	   7.67	   4.40
+	77.90	   9.71	   5.57
+DriverResult.0.Knowl.Vehicle.Aero.Factor_axDecel = 1.000
+DriverResult.0.Knowl.Vehicle.Aero.Factor_axAccel = 1.000
+DriverResult.0.Knowl.Vehicle.Aero.Factor_ay = 0.950
+DriverResult.0.Knowl.Vehicle.Aero:
+	# 'v [km/h]'	'a_accel [m/s^2]'	'a_decel [m/s^2]'	'a_lat [m/s^2]'
+	20.00	   13.51	  -23.62	   17.71
+	30.00	   13.70	  -23.83	   18.61
+	40.00	   14.29	  -24.56	   19.49
+	50.00	   15.21	  -26.11	   20.39
+	60.00	   16.10	  -27.58	   21.48
+	70.00	   16.63	  -28.23	   22.90
+	80.00	   16.80	  -28.32	   24.38
+	90.00	   16.29	  -28.27	   25.65
+	100.00	   14.77	  -28.24	   26.79
+	110.00	   12.92	  -28.23	   27.90

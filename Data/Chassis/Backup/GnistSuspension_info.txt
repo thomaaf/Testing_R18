@@ -1,0 +1,44 @@
+
+  ----------------------------------------------------------------------------------------------------------------------------
+  IPGKinematics  Version 3.6.1                                            Model: Querlenker                                   
+  ----------------------------------------------------------------------------------------------------------------------------
+
+   Table: General Data                                                    Demo data                                           
+
+   Parallel Kinematics     - Spring Ratio at CP       [-] :       0.48
+                           - Spring Ratio at WC       [-] :       0.55
+
+                           - Damper Ratio at CP       [-] :       0.48
+                           - Damper Ratio at WC       [-] :       0.55
+
+                           - Stabi Ratio at CP        [-] :       0.00
+                           - Stabi Ratio at WC        [-] :       0.00
+
+                           - Spring Stiff at CP    [N/mm] :      27.91
+                           - Eigenfrequency of Body  [Hz] :       1.68
+
+   Reciprocal Kinematics   - Spring Ratio at CP       [-] :       0.34
+                           - Spring Ratio at WC       [-] :       0.48
+
+                           - Damper Ratio at CP       [-] :       0.34
+                             Damper Ratio at WC       [-] :       0.48
+
+                           - Stabi Ratio at CP        [-] :      -0.02
+                             Stabi Ratio at WC        [-] :      -0.03
+
+                           - Spring Stiff at CP    [N/mm] :      67.76
+                           - Eigenfrequency of Body  [Hz] :       2.62
+                           - Stabilization      [kNm/rad] :      86.95
+
+   Position with Load      - Mass of Load            [kg] :       0.00
+                           - Deflection of Body      [mm] :       0.00
+
+
+  ----------------------------------------------------------------------------------------------------------------------------
+
+   Table: Vehicle Data                                                    Demo data                                           
+
+   Stabilizer              - Tors. Spring Stiff  [Nm/rad] :    1432.39
+                           - Trans. Spring Stiff    [N/m] :       0.00
+
+

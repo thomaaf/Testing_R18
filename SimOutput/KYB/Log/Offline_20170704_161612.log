@@ -1,0 +1,102 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 16:50:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	13.390
+SIM_END		Examples/VehicleDynamics/LaneChange_ISO	13.386s	249.991m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 16:51:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	12.209
+SIM_END		Examples/VehicleDynamics/LaneChange_ISO	12.205s	213.992m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 16:52:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	3.175
+ERROR		Vehicle leaves road at about x=14.1558, y=-3.50095 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/LaneChange_ISO	3.177s	12.6088m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 17:02:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	3.175
+ERROR		Vehicle leaves road at about x=14.1558, y=-3.50095 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/LaneChange_ISO	3.177s	12.6088m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 17:20:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	3.175
+ERROR		Vehicle leaves road at about x=14.1558, y=-3.50095 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/LaneChange_ISO	3.177s	12.6088m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 17:25:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	28.281
+SIM_END		Examples/VehicleDynamics/LaneChange_ISO	28.28s	697.355m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 17:27:20
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	28.281
+SIM_END		Examples/VehicleDynamics/LaneChange_ISO	28.28s	697.355m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 17:31:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	8.762
+SIM_END		Examples/VehicleDynamics/LaneChange_ISO	8.758s	107.5m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 17:31:25
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+
+TIME	3.335
+ERROR		Vehicle leaves road at about x=13.6662, y=-3.5008 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/LaneChange_ISO	3.337s	12.1368m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples/VehicleDynamics/LaneChange_ISO	2017-07-04 17:33:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/LaneChange_ISO
+

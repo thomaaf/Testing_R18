@@ -1,0 +1,68 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-13 12:32:41
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-13 13:01:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-13 13:02:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	35.897
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	35.896s	595.173m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-13 13:04:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	34.626
+SIM_END		TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	34.625s	595.75m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m	2017-02-13 14:32:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	TestManager/Lateral Dynamics/ZigZag 15m/Slalom_15m
+
+TIME	43.562
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (5.1 km/h) -> set to 20 km/h (id=200)
+TIME	65.354
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (9.2 km/h) -> set to 20 km/h (id=200)
+TIME	85.376
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (13.0 km/h) -> set to 20 km/h (id=200)
+TIME	103.814
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (16.3 km/h) -> set to 20 km/h (id=200)
+TIME	120.732
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (19.3 km/h) -> set to 20 km/h (id=200)
+TIME	525.040
+WARNING		IPGDriver: OLS_ayMax = 0 changed to 10 (t = 525.039000, Gear = 4) (id=200)
+TIME	545.593
+WARNING		IPGDriver: OLS_ayMax = 0 changed to 10 (t = 545.592000, Gear = 4) (id=200)
+TIME	576.059
+WARNING		IPGDriver: OLS_ayMax = 0 changed to 10 (t = 576.058000, Gear = 5) (id=200)
+TIME	593.260
+WARNING		IPGDriver: OLS_ayMax = 0 changed to 10 (t = 593.259000, Gear = 5) (id=200)
+TIME	609.394
+WARNING		IPGDriver: OLS_ayMax = 0 changed to 10 (t = 609.393000, Gear = 4) (id=200)

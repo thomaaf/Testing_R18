@@ -1,0 +1,1295 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-TestRun 6
+FileCreator = CarMaker 6.0.3 2017-9-22
+Description:
+	Driving on Nurburgring Nordschleife Race Circuit
+Vehicle = Examples_FS/FS_RaceCar_6.0
+Trailer =
+Tire.0 =
+Tire.1 =
+Tire.2 =
+Tire.3 =
+Snapshot.TimeLimit =
+Snapshot.DistLimit =
+VehicleLoad.0.mass = 0
+VehicleLoad.0.pos = 0 0 0
+VehicleLoad.1.mass = 0
+VehicleLoad.1.pos = 0 0 0
+VehicleLoad.2.mass = 0
+VehicleLoad.2.pos = 0 0 0
+VehicleLoad.3.mass = 0
+VehicleLoad.3.pos = 0 0 0
+TrailerLoad.0.mass = 0
+TrailerLoad.0.pos = 0 0 0
+TrailerLoad.1.mass = 0
+TrailerLoad.1.pos = 0 0 0
+TrailerLoad.2.mass = 0
+TrailerLoad.2.pos = 0 0 0
+DrivMan.Init.Velocity = 0
+DrivMan.Init.GearNo = 0
+DrivMan.Init.SteerAng = 0
+DrivMan.Init.LaneOffset = 0
+DrivMan.Init.OperatorActive = 1
+DrivMan.Init.OperatorState = drive
+DrivMan.VhclOperator.Kind = IPGOperator 1
+DrivMan.nDMan = 1
+DrivMan.0.TimeLimit = 2000
+DrivMan.0.DistLimit = 21500
+DrivMan.0.LongDyn = Driver 1 0
+DrivMan.0.LatDyn = Driver 0
+Traffic.IFF.FName =
+Traffic.IFF.Time.Name =
+Traffic.N = 0
+Traffic.SpeedUnit = ms
+DrivMan.OW.Active = 0
+DrivMan.OW.Quantities = Time
+DrivMan.OW.StartGearNo =
+DrivMan.OW.StartVelocity =
+DrivMan.OW.GasMax =
+DrivMan.OW.Time.Name =
+DrivMan.OW.Time.Factor = 1.0
+DrivMan.OW.Time.Offset = 0.0
+ErrorClass.0.Action = abort
+ErrorClass.0.Save =
+ErrorClass.0.WarningLimit = 3 5.0
+ErrorClass.1.Action = abort
+ErrorClass.1.Save =
+ErrorClass.1.WarningLimit = 3 5.0
+ErrorClass.2.Action = abort
+ErrorClass.2.Save =
+ErrorClass.2.WarningLimit = 3 5.0
+ErrorClass.3.Action = abort
+ErrorClass.3.Save =
+ErrorClass.3.WarningLimit = 3 5.0
+ErrorClass.4.Action = abort
+ErrorClass.4.Save =
+ErrorClass.4.WarningLimit = 3 5.0
+ErrorClass.5.Action = abort
+ErrorClass.5.Save =
+ErrorClass.5.WarningLimit = 3 5.0
+ErrorClass.10.Action = abort
+ErrorClass.10.Save =
+ErrorClass.10.WarningLimit = 3 5.0
+ErrorClass.11.Action = abort
+ErrorClass.11.Save =
+ErrorClass.11.WarningLimit = 3 5.0
+Road.FileIdent = IPGRoad 6.0
+Road.Country = DEU
+Road.nLinks = 1
+Road.nJunctions = 1
+Road.nObjects = 262
+Road.nRoutes = 2
+Road.RoadNetworkLength = 20888.7460556545
+Road.BBox = -2116.45062860117 4050.2785518105 -162.497922965848 4739.35270810315 -301.813106514447 0.677706979170034
+Road.Route.0.Length = 20888.7460556545
+Road.Route.1.Length = 20888.7460556545
+Road.GCS = FlatEarth 1000 2000 468 50.3566 6.9633 468
+Road.RST.Unit = kmh
+Road.RST = 50 100 -3.6 30 70 50 -3.6 -3.6
+Road.Movie = 0.1 1 0.02 5.5 5.5 0 0
+Road.Movie.TerrainFName = 3D/Terrain/Racetrack_Nurburgring.obj
+Road.PathMode = 0
+Road.Junction.0.Knot = 0 0 -0.0329000018537045
+Road.Junction.0.Arm.0 = 125.899999984183 0 0
+Road.Junction.0.Arm.1 = 305.899999984183 0 0
+Road.Junction.0.MainArms = 0 1
+Road.Link.0.Junctions = 0 0 0 1
+Road.Link.0.Friction = 1.1
+Road.Link.0.Seg.0.Type = File
+Road.Link.0.Seg.0.File = Examples/Nordschleife-2000-5.bin
+Road.Link.0.Seg.0.FileAddParam = 0 0 1 1 0 0 0 0 0 0 1 1 1 0 0 "" 0
+Road.Link.0.Seg.0.Param = 0 0.1 0 0 1 1 1 0
+Road.Link.0.LaneSection.0.Start = 0
+Road.Link.0.LaneSection.0.LaneL.0 = 0 5.5 5.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneL.0.Width:
+	0 0 0 5.5 0 -999 -999
+Road.Link.0.LaneSection.0.LaneL.1 = 2 9 9 5 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0 = 0 5.5 5.5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0.Width:
+	0 0 0 5.5 0 -999 -999
+Road.Link.0.LaneSection.0.LaneR.1 = 2 9 9 5 0 0 0
+Road.Link.0.Bump.0.Type = LatProfileRSL
+Road.Link.0.Bump.0.Param = 0 0 170 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.0.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.0.Material.sTex = 2
+Road.Link.0.Bump.0.Profile:
+	0.5 0.02
+	0.1 0.02
+Road.Link.0.Bump.1.Type = LatProfileRSR
+Road.Link.0.Bump.1.Param = 129.999796558121 0 189.999786700354 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.1.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.1.Material.sTex = 2
+Road.Link.0.Bump.1.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.2.Type = LatProfileRSR
+Road.Link.0.Bump.2.Param = 249.999785835532 0 309.999776446409 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.2.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.2.Material.sTex = 2
+Road.Link.0.Bump.2.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.3.Type = LatProfileRSR
+Road.Link.0.Bump.3.Param = 439.999770810941 0 499.999746984478 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.3.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.3.Material.sTex = 2
+Road.Link.0.Bump.3.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.4.Type = LatProfileRSL
+Road.Link.0.Bump.4.Param = 629.999740313407 0 689.999736449005 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.4.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.4.Material.sTex = 2
+Road.Link.0.Bump.4.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.5.Type = LatProfileRSL
+Road.Link.0.Bump.5.Param = 779.999734076919 0 839.999709446291 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.5.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.5.Material.sTex = 2
+Road.Link.0.Bump.5.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.6.Type = LatProfileRSR
+Road.Link.0.Bump.6.Param = 839.999709446291 0 939.999641597168 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.6.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.6.Material.sTex = 2
+Road.Link.0.Bump.6.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.7.Type = LatProfileRSL
+Road.Link.0.Bump.7.Param = 1029.99962733278 0 1089.99959420663 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.7.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.7.Material.sTex = 2
+Road.Link.0.Bump.7.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.8.Type = LatProfileRSR
+Road.Link.0.Bump.8.Param = 1099.99959414716 0 1159.99955576127 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.8.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.8.Material.sTex = 2
+Road.Link.0.Bump.8.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.9.Type = LatProfileRSL
+Road.Link.0.Bump.9.Param = 1179.99955238299 0 1239.99946588942 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.9.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.9.Material.sTex = 2
+Road.Link.0.Bump.9.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.10.Type = LatProfileRSR
+Road.Link.0.Bump.10.Param = 1219.99947642469 0 1269.99946582114 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.10.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.10.Material.sTex = 2
+Road.Link.0.Bump.10.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.11.Type = LatProfileRSR
+Road.Link.0.Bump.11.Param = 1349.99946553413 0 1419.99939350605 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.11.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.11.Material.sTex = 2
+Road.Link.0.Bump.11.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.12.Type = LatProfileRSL
+Road.Link.0.Bump.12.Param = 1439.99938492734 0 1509.99935884064 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.12.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.12.Material.sTex = 2
+Road.Link.0.Bump.12.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.13.Type = LatProfileRSR
+Road.Link.0.Bump.13.Param = 2199.99934831446 0 2269.99933461964 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.13.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.13.Material.sTex = 2
+Road.Link.0.Bump.13.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.14.Type = LatProfileRSL
+Road.Link.0.Bump.14.Param = 2499.99931630172 0 2569.99931386819 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.14.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.14.Material.sTex = 2
+Road.Link.0.Bump.14.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.15.Type = LatProfileRSL
+Road.Link.0.Bump.15.Param = 2649.99931365338 0 2749.99931057224 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.15.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.15.Material.sTex = 2
+Road.Link.0.Bump.15.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.16.Type = LatProfileRSL
+Road.Link.0.Bump.16.Param = 2649.99931365338 0 2749.99931057224 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.16.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.16.Material.sTex = 2
+Road.Link.0.Bump.16.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.17.Type = LatProfileRSL
+Road.Link.0.Bump.17.Param = 2949.99930815205 0 3079.99930741605 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.17.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.17.Material.sTex = 2
+Road.Link.0.Bump.17.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.18.Type = LatProfileRSL
+Road.Link.0.Bump.18.Param = 2949.99930815205 0 3079.99930741605 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.18.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.18.Material.sTex = 2
+Road.Link.0.Bump.18.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.19.Type = LatProfileRSL
+Road.Link.0.Bump.19.Param = 3399.9993051611 0 3599.99929240726 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.19.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.19.Material.sTex = 2
+Road.Link.0.Bump.19.Profile:
+	0.2 0
+	0.1 0
+Road.Link.0.Bump.20.Type = LatProfileRSR
+Road.Link.0.Bump.20.Param = 3699.99929198639 0 3939.99917459129 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.20.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.20.Material.sTex = 2
+Road.Link.0.Bump.20.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.21.Type = LatProfileRSL
+Road.Link.0.Bump.21.Param = 3869.99917919875 0 3939.99917459129 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.21.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.21.Material.sTex = 2
+Road.Link.0.Bump.21.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.22.Type = LatProfileRSL
+Road.Link.0.Bump.22.Param = 4089.99917381732 0 4159.99916401647 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.22.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.22.Material.sTex = 2
+Road.Link.0.Bump.22.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.23.Type = LatProfileRSR
+Road.Link.0.Bump.23.Param = 4199.99916336041 0 4239.999160123 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.23.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.23.Material.sTex = 2
+Road.Link.0.Bump.23.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.24.Type = LatProfileRSL
+Road.Link.0.Bump.24.Param = 4279.99915976966 0 4349.99915443209 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.24.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.24.Material.sTex = 2
+Road.Link.0.Bump.24.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.25.Type = LatProfileRSR
+Road.Link.0.Bump.25.Param = 4429.99915436752 0 4509.99915303154 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.25.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.25.Material.sTex = 2
+Road.Link.0.Bump.25.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.26.Type = LatProfileRSL
+Road.Link.0.Bump.26.Param = 4629.99915122761 0 4699.99914717039 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.26.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.26.Material.sTex = 2
+Road.Link.0.Bump.26.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.27.Type = LatProfileRSR
+Road.Link.0.Bump.27.Param = 4699.99914717039 0 4779.99914630934 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.27.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.27.Material.sTex = 2
+Road.Link.0.Bump.27.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.28.Type = LatProfileRSL
+Road.Link.0.Bump.28.Param = 4859.99914377709 0 4889.9991289569 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.28.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.28.Material.sTex = 2
+Road.Link.0.Bump.28.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.29.Type = LatProfileRSR
+Road.Link.0.Bump.29.Param = 4949.99912841873 0 5039.99909636045 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.29.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.29.Material.sTex = 2
+Road.Link.0.Bump.29.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.30.Type = LatProfileRSL
+Road.Link.0.Bump.30.Param = 5029.9991025211 0 5169.99894504575 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.30.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.30.Material.sTex = 2
+Road.Link.0.Bump.30.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.31.Type = LatProfileRSR
+Road.Link.0.Bump.31.Param = 5069.99909050634 0 5219.99888980138 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.31.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.31.Material.sTex = 2
+Road.Link.0.Bump.31.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.32.Type = LatProfileRSL
+Road.Link.0.Bump.32.Param = 5199.99891067776 0 5299.99885214389 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.32.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.32.Material.sTex = 2
+Road.Link.0.Bump.32.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.33.Type = LatProfileRSL
+Road.Link.0.Bump.33.Param = 5859.99884305896 0 5959.9988211415 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.33.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.33.Material.sTex = 2
+Road.Link.0.Bump.33.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.34.Type = LatProfileRSL
+Road.Link.0.Bump.34.Param = 6069.9988187501 0 6169.9987670919 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.34.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.34.Material.sTex = 2
+Road.Link.0.Bump.34.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.35.Type = LatProfileRSR
+Road.Link.0.Bump.35.Param = 6139.99878574776 0 6249.9987480866 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.35.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.35.Material.sTex = 2
+Road.Link.0.Bump.35.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.36.Type = LatProfileRSR
+Road.Link.0.Bump.36.Param = 6359.99874696765 0 6489.99863355797 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.36.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.36.Material.sTex = 2
+Road.Link.0.Bump.36.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.37.Type = LatProfileRSL
+Road.Link.0.Bump.37.Param = 6479.99863369104 0 6549.99863316558 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.37.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.37.Material.sTex = 2
+Road.Link.0.Bump.37.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.38.Type = LatProfileRSL
+Road.Link.0.Bump.38.Param = 6659.99862944706 0 6749.9985816166 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.38.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.38.Material.sTex = 2
+Road.Link.0.Bump.38.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.39.Type = LatProfileRSR
+Road.Link.0.Bump.39.Param = 6749.9985816166 0 6819.99856034547 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.39.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.39.Material.sTex = 2
+Road.Link.0.Bump.39.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.40.Type = LatProfileRSR
+Road.Link.0.Bump.40.Param = 6899.99855576461 0 6969.99853525975 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.40.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.40.Material.sTex = 2
+Road.Link.0.Bump.40.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.41.Type = LatProfileRSR
+Road.Link.0.Bump.41.Param = 7029.99850542051 0 7099.99849538814 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.41.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.41.Material.sTex = 2
+Road.Link.0.Bump.41.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.42.Type = LatProfileRSR
+Road.Link.0.Bump.42.Param = 7229.99849481309 0 7309.99847316895 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.42.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.42.Material.sTex = 2
+Road.Link.0.Bump.42.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.43.Type = LatProfileRSL
+Road.Link.0.Bump.43.Param = 7299.9984764898 0 7419.99822873096 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.43.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.43.Material.sTex = 2
+Road.Link.0.Bump.43.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.44.Type = LatProfileRSR
+Road.Link.0.Bump.44.Param = 7389.9982538495 0 7489.9981916303 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.44.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.44.Material.sTex = 2
+Road.Link.0.Bump.44.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.45.Type = LatProfileRSR
+Road.Link.0.Bump.45.Param = 7649.99819078037 0 7769.99818392493 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.45.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.45.Material.sTex = 2
+Road.Link.0.Bump.45.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.46.Type = LatProfileRSL
+Road.Link.0.Bump.46.Param = 7819.99818374435 0 8039.99809018203 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.46.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.46.Material.sTex = 2
+Road.Link.0.Bump.46.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.47.Type = LatProfileRSR
+Road.Link.0.Bump.47.Param = 7879.99812795151 0 7959.99809864106 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.47.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.47.Material.sTex = 2
+Road.Link.0.Bump.47.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.48.Type = LatProfileRSR
+Road.Link.0.Bump.48.Param = 8049.99808991364 0 8169.9979920148 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.48.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.48.Material.sTex = 2
+Road.Link.0.Bump.48.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.49.Type = LatProfileRSL
+Road.Link.0.Bump.49.Param = 8091 0 8220 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.49.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.49.Material.sTex = 2
+Road.Link.0.Bump.49.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.50.Type = LatProfileRSL
+Road.Link.0.Bump.50.Param = 8579.9979898939 0 8649.99797905954 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.50.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.50.Material.sTex = 2
+Road.Link.0.Bump.50.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.51.Type = LatProfileRSR
+Road.Link.0.Bump.51.Param = 8799.99797838192 0 9019.99788596885 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.51.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.51.Material.sTex = 2
+Road.Link.0.Bump.51.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.52.Type = LatProfileRSL
+Road.Link.0.Bump.52.Param = 8999.99788774667 0 9069.99788522309 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.52.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.52.Material.sTex = 2
+Road.Link.0.Bump.52.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.53.Type = LatProfileRSL
+Road.Link.0.Bump.53.Param = 9799.99786245334 0 9869.99785148291 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.53.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.53.Material.sTex = 2
+Road.Link.0.Bump.53.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.54.Type = LatProfileRSR
+Road.Link.0.Bump.54.Param = 10449.9978440513 0 10519.9978401929 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.54.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.54.Material.sTex = 2
+Road.Link.0.Bump.54.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.55.Type = LatProfileRSL
+Road.Link.0.Bump.55.Param = 10579.9978382799 0 10659.9978349378 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.55.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.55.Material.sTex = 2
+Road.Link.0.Bump.55.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.56.Type = LatProfileRSL
+Road.Link.0.Bump.56.Param = 10769.9978343011 0 10849.9978140676 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.56.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.56.Material.sTex = 2
+Road.Link.0.Bump.56.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.57.Type = LatProfileRSR
+Road.Link.0.Bump.57.Param = 11199.9978004034 0 11279.997780305 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.57.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.57.Material.sTex = 2
+Road.Link.0.Bump.57.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.58.Type = LatProfileRSL
+Road.Link.0.Bump.58.Param = 11439.9977794849 0 11539.997756792 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.58.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.58.Material.sTex = 2
+Road.Link.0.Bump.58.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.59.Type = LatProfileRSR
+Road.Link.0.Bump.59.Param = 11519.9977743953 0 11669.9976071632 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.59.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.59.Material.sTex = 2
+Road.Link.0.Bump.59.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.60.Type = LatProfileRSL
+Road.Link.0.Bump.60.Param = 11639.9976314389 0 11819.9975969795 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.60.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.60.Material.sTex = 2
+Road.Link.0.Bump.60.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.61.Type = LatProfileRSR
+Road.Link.0.Bump.61.Param = 11799.9975975953 0 11949.9975903109 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.61.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.61.Material.sTex = 2
+Road.Link.0.Bump.61.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.62.Type = LatProfileRSR
+Road.Link.0.Bump.62.Param = 12099.9971343947 0 12249.9971007616 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.62.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.62.Material.sTex = 2
+Road.Link.0.Bump.62.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.63.Type = LatProfileRSR
+Road.Link.0.Bump.63.Param = 12389.997100147 0 12439.9970968558 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.63.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.63.Material.sTex = 2
+Road.Link.0.Bump.63.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.64.Type = LatProfileRSL
+Road.Link.0.Bump.64.Param = 12489.9970964023 0 12539.9970769365 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.64.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.64.Material.sTex = 2
+Road.Link.0.Bump.64.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.65.Type = LatProfileRSR
+Road.Link.0.Bump.65.Param = 12679.9970719693 0 12709.9970718263 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.65.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.65.Material.sTex = 2
+Road.Link.0.Bump.65.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.66.Type = LatProfileRSL
+Road.Link.0.Bump.66.Param = 12729.9970706267 0 12779.9970410221 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.66.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.66.Material.sTex = 2
+Road.Link.0.Bump.66.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.67.Type = LatProfileRSR
+Road.Link.0.Bump.67.Param = 12819.99703767 0 12879.9970008434 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.67.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.67.Material.sTex = 2
+Road.Link.0.Bump.67.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.68.Type = LatProfileRSL
+Road.Link.0.Bump.68.Param = 12879.9970008434 0 12969.9970003834 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.68.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.68.Material.sTex = 2
+Road.Link.0.Bump.68.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.69.Type = LatProfileRSR
+Road.Link.0.Bump.69.Param = 12989.9969894743 0 13054.9969331859 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.69.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.69.Material.sTex = 2
+Road.Link.0.Bump.69.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.70.Type = LatProfileRSL
+Road.Link.0.Bump.70.Param = 13049.9969364113 0 13149.9969248861 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.70.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.70.Material.sTex = 2
+Road.Link.0.Bump.70.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.71.Type = LatProfileRSR
+Road.Link.0.Bump.71.Param = 13289.9969213123 0 13359.9969015511 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.71.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.71.Material.sTex = 2
+Road.Link.0.Bump.71.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.72.Type = LatProfileRSL
+Road.Link.0.Bump.72.Param = 13399.9968989208 0 13509.9968616462 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.72.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.72.Material.sTex = 2
+Road.Link.0.Bump.72.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.73.Type = LatProfileRSR
+Road.Link.0.Bump.73.Param = 13519.996860877 0 13599.9968216413 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.73.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.73.Material.sTex = 2
+Road.Link.0.Bump.73.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.74.Type = LatProfileRSL
+Road.Link.0.Bump.74.Param = 13579.9968291239 0 13699.9968207632 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.74.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.74.Material.sTex = 2
+Road.Link.0.Bump.74.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.75.Type = LatProfileRSR
+Road.Link.0.Bump.75.Param = 13729.9968169551 0 13809.9967806432 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.75.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.75.Material.sTex = 2
+Road.Link.0.Bump.75.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.76.Type = LatProfileRSL
+Road.Link.0.Bump.76.Param = 13819.9967770801 0 13849.9967758736 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.76.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.76.Material.sTex = 2
+Road.Link.0.Bump.76.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.77.Type = LatProfileRSL
+Road.Link.0.Bump.77.Param = 13939.9967740135 0 14109.9966842722 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.77.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.77.Material.sTex = 2
+Road.Link.0.Bump.77.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.78.Type = LatProfileRSR
+Road.Link.0.Bump.78.Param = 14149.9966829627 0 14239.9966028192 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.78.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.78.Material.sTex = 2
+Road.Link.0.Bump.78.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.79.Type = LatProfileRSL
+Road.Link.0.Bump.79.Param = 14229.9966091651 0 14359.9965985527 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.79.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.79.Material.sTex = 2
+Road.Link.0.Bump.79.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.80.Type = LatProfileRSR
+Road.Link.0.Bump.80.Param = 14369.9965983613 0 14489.9965166397 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.80.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.80.Material.sTex = 2
+Road.Link.0.Bump.80.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.81.Type = LatProfileRSL
+Road.Link.0.Bump.81.Param = 14479.9965174065 0 14539.9965163573 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.81.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.81.Material.sTex = 2
+Road.Link.0.Bump.81.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.82.Type = LatProfileRSL
+Road.Link.0.Bump.82.Param = 14659.9965127085 0 14729.99643858 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.82.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.82.Material.sTex = 2
+Road.Link.0.Bump.82.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.83.Type = LatProfileRSR
+Road.Link.0.Bump.83.Param = 14709.9964670052 0 14779.9964225295 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.83.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.83.Material.sTex = 2
+Road.Link.0.Bump.83.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.84.Type = LatProfileRSL
+Road.Link.0.Bump.84.Param = 15019.9964078774 0 15049.9964020152 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.84.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.84.Material.sTex = 2
+Road.Link.0.Bump.84.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.85.Type = LatProfileRSR
+Road.Link.0.Bump.85.Param = 15099.9964015819 0 15139.9963993036 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.85.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.85.Material.sTex = 2
+Road.Link.0.Bump.85.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.86.Type = LatProfileRSL
+Road.Link.0.Bump.86.Param = 15159.9963988478 0 15239.9963968015 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.86.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.86.Material.sTex = 2
+Road.Link.0.Bump.86.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.87.Type = LatProfileRSR
+Road.Link.0.Bump.87.Param = 15249.9963967583 0 15419.9963313801 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.87.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.87.Material.sTex = 2
+Road.Link.0.Bump.87.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.88.Type = LatProfileRSL
+Road.Link.0.Bump.88.Param = 15459.9963306997 0 15539.9963132192 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.88.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.88.Material.sTex = 2
+Road.Link.0.Bump.88.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.89.Type = LatProfileRSL
+Road.Link.0.Bump.89.Param = 15669.9963111653 0 15819.9963047231 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.89.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.89.Material.sTex = 2
+Road.Link.0.Bump.89.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.90.Type = LatProfileRSR
+Road.Link.0.Bump.90.Param = 15859.9963012767 0 15959.9962877684 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.90.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.90.Material.sTex = 2
+Road.Link.0.Bump.90.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.91.Type = LatProfileRSL
+Road.Link.0.Bump.91.Param = 15959.9962877684 0 16029.9962816691 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.91.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.91.Material.sTex = 2
+Road.Link.0.Bump.91.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.92.Type = LatProfileRSR
+Road.Link.0.Bump.92.Param = 16069.9962801611 0 16139.9962711357 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.92.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.92.Material.sTex = 2
+Road.Link.0.Bump.92.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.93.Type = LatProfileRSR
+Road.Link.0.Bump.93.Param = 16459.996263916 0 16579.9962278795 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.93.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.93.Material.sTex = 2
+Road.Link.0.Bump.93.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.94.Type = LatProfileRSL
+Road.Link.0.Bump.94.Param = 16649.9962241121 0 16749.9961653669 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.94.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.94.Material.sTex = 2
+Road.Link.0.Bump.94.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.95.Type = LatProfileRSR
+Road.Link.0.Bump.95.Param = 16729.9961688912 0 16879.9961634812 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.95.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.95.Material.sTex = 2
+Road.Link.0.Bump.95.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.96.Type = LatProfileRSL
+Road.Link.0.Bump.96.Param = 16869.9961635111 0 16969.9960511387 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.96.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.96.Material.sTex = 2
+Road.Link.0.Bump.96.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.97.Type = LatProfileRSL
+Road.Link.0.Bump.97.Param = 17099.9960344786 0 17269.996033345 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.97.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.97.Material.sTex = 2
+Road.Link.0.Bump.97.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.98.Type = LatProfileRSR
+Road.Link.0.Bump.98.Param = 17279.996031369 0 17389.9959941719 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.98.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.98.Material.sTex = 2
+Road.Link.0.Bump.98.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.99.Type = LatProfileRSR
+Road.Link.0.Bump.99.Param = 17529.995978047 0 17644.9959509197 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.99.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.99.Material.sTex = 2
+Road.Link.0.Bump.99.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.100.Type = LatProfileRSR
+Road.Link.0.Bump.100.Param = 17709.995948929 0 17729.9959488597 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.100.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.100.Material.sTex = 2
+Road.Link.0.Bump.100.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.101.Type = LatProfileRSL
+Road.Link.0.Bump.101.Param = 17709.995948929 0 17729.9959488597 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.101.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.101.Material.sTex = 2
+Road.Link.0.Bump.101.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.102.Type = LatProfileRSL
+Road.Link.0.Bump.102.Param = 19779.9959428728 0 19879.9959405356 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.102.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.102.Material.sTex = 2
+Road.Link.0.Bump.102.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.103.Type = LatProfileRSL
+Road.Link.0.Bump.103.Param = 20169.9959395943 0 20249.9959368355 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.103.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.103.Material.sTex = 2
+Road.Link.0.Bump.103.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.104.Type = LatProfileRSR
+Road.Link.0.Bump.104.Param = 20289.9959353489 0 20349.9959311002 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.104.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.104.Material.sTex = 2
+Road.Link.0.Bump.104.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.105.Type = LatProfileRSR
+Road.Link.0.Bump.105.Param = 20529.9959119595 0 20589.995842688 0 0 -1 1 0 2 0 2 1
+Road.Link.0.Bump.105.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.105.Material.sTex = 2
+Road.Link.0.Bump.105.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.106.Type = LatProfileRSL
+Road.Link.0.Bump.106.Param = 20569.9958505478 0 20699.9958020037 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.106.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.106.Material.sTex = 2
+Road.Link.0.Bump.106.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.Bump.107.Type = LatProfileRSL
+Road.Link.0.Bump.107.Param = 20741 0 20780 0 0 1 0 0 2 0 2 1
+Road.Link.0.Bump.107.Material = Textures/Ground/Curb_1.png
+Road.Link.0.Bump.107.Material.sTex = 2
+Road.Link.0.Bump.107.Profile:
+	0.4 0.02
+	0.1 0.02
+Road.Link.0.SignPlate.0 = 0 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Hatzenbach.jpg"
+Road.Link.0.SignPlate.1 = 249.999948465844 0 7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-2.jpg"
+Road.Link.0.SignPlate.2 = 1249.99974232922 0 7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-3.jpg"
+Road.Link.0.SignPlate.3 = 2199.99954649943 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Flugplatz.jpg"
+Road.Link.0.SignPlate.4 = 2249.9995361926 0 -6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-4.jpg"
+Road.Link.0.SignPlate.5 = 3099.99936097647 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Schwedenkreuz.jpg"
+Road.Link.0.SignPlate.6 = 3249.99933005598 0 -6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-5.jpg"
+Road.Link.0.SignPlate.7 = 3999.99917545351 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Fuchsroehre.jpg"
+Road.Link.0.SignPlate.8 = 4249.99912391935 0 -6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-6.jpg"
+Road.Link.0.SignPlate.9 = 5249.99891778273 0 6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-7.jpg"
+Road.Link.0.SignPlate.10 = 5299.9989074759 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Adenauer_Forst.jpg"
+Road.Link.0.SignPlate.11 = 6249.99871164611 0 6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-8.jpg"
+Road.Link.0.SignPlate.12 = 7199.99851581631 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Wehrseifen.jpg"
+Road.Link.0.SignPlate.13 = 7249.99850550948 0 6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-9.jpg"
+Road.Link.0.SignPlate.14 = 8249.99829937286 0 -6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-10.jpg"
+Road.Link.0.SignPlate.15 = 8699.99820661138 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Bergwerk.jpg"
+Road.Link.0.SignPlate.16 = 9249.99809323624 0 -6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-11.jpg"
+Road.Link.0.SignPlate.17 = 10249.9978870996 0 -6 0 0 1 0 1.5 0 "Textures/Nordschleife/km-12.jpg"
+Road.Link.0.SignPlate.18 = 11249.997680963 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-13.jpg"
+Road.Link.0.SignPlate.19 = 11849.997557281 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Caracciola_Karussell.jpg"
+Road.Link.0.SignPlate.20 = 12249.9974748264 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-14.jpg"
+Road.Link.0.SignPlate.21 = 12899.9973408376 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Hohe_Acht.jpg"
+Road.Link.0.SignPlate.22 = 13249.9972686897 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-15.jpg"
+Road.Link.0.SignPlate.23 = 14249.9970625531 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-16.jpg"
+Road.Link.0.SignPlate.24 = 15249.9968564165 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-17.jpg"
+Road.Link.0.SignPlate.25 = 16249.9966502799 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-18.jpg"
+Road.Link.0.SignPlate.26 = 16599.9965781321 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Schwalbenschwanz.jpg"
+Road.Link.0.SignPlate.27 = 17249.9964441433 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-19.jpg"
+Road.Link.0.SignPlate.28 = 17699.9963513818 0 0 0 1.88 15 0 4 15 "Textures/Nordschleife/Doettinger_Hoehe.jpg"
+Road.Link.0.SignPlate.29 = 18249.9962380066 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-20.jpg"
+Road.Link.0.SignPlate.30 = 19249.99603187 0 -7 0 0 1 0 1.5 0 "Textures/Nordschleife/km-1.jpg"
+Road.Link.0.TreeStrip.0 = 0 0 11720 0 5.8 1 39.2 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.1 = 0 0 3570 0 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.2 = 0 0 0 1 -5.8 -1 39.2 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.3 = 200 0 6130 0 45 1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.4 = 4050 0 6150 0 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.5 = 6215 0 7300 0 45 1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.6 = 6590 0 8650 0 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.7 = 7430 0 11580 0 45 1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.8 = 9120 0 11100 0 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.9 = 11720 0 11770 0 5.8 1 20 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.10 = 11770 0 11800 0 5.8 1 10 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.11 = 11800 0 11900 0 5.8 1 2.5 4 1 1 0.5 0.5
+Road.Link.0.TreeStrip.12 = 11900 0 11930 0 5.8 1 6 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.13 = 11930 0 12110 0 5.8 1 20 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.14 = 12000 0 12700 0 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.15 = 12110 0 12135 0 5.8 1 6 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.16 = 12135 0 12230 0 5.8 1 2.5 4 1 1 0.5 0.5
+Road.Link.0.TreeStrip.17 = 12230 0 12260 0 5.8 1 10 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.18 = 12260 0 12310 0 5.8 1 20 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.19 = 12310 0 0 1 5.8 1 39.2 2 1 1 0.5 0.5
+Road.Link.0.TreeStrip.20 = 12820 0 16490 0 45 1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.21 = 12850 0 14075 0 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.22 = 14670 0 17220 0 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.23 = 17315 0 0 1 45 1 400 3 1 1 0.5 0.5
+Road.Link.0.TreeStrip.24 = 17660 0 0 1 -45 -1 400 3 1 1 0.5 0.5
+Road.Link.0.RoadMarking.0 = 0 0 0 1 -0.15 1 0.2 0 1 0 0 0 0 0 1 4 ""
+Road.Link.0.RoadMarking.1 = 0 0 0 1 0.15 -1 0.2 0 1 0 0 0 0 0 1 4 ""
+Road.Link.0.TrafficBarrier.0 = 0 0 149.999791682217 0 4 1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.0.G.Material = Textures/Infrastructure/Concrete_1.jpg
+Road.Link.0.TrafficBarrier.0.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.1 = 0 0 49.9999994637058 0 -4 -1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.1.G.Material = 0.0,0.44,0.75
+Road.Link.0.TrafficBarrier.1.G.Material.Tex = 0 0
+Road.Link.0.TrafficBarrier.2 = 0 0 1999.99935043415 0 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.2.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.2.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.3 = 0 0 1999.99935043415 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.3.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.3.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.4 = 49.9999994637058 0 149.999791682217 0 -4 -1 0.82 1.07 4 0 8 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.4.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.4.G.Material.Tex = 8 2
+Road.Link.0.TrafficBarrier.5 = 149.999791682217 0 1999.99935043415 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.5.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.5.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.6 = 149.999791682217 0 1999.99935043415 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.6.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.6.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.7 = 1999.99935043415 0 2399.99931831139 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.7.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.7.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.8 = 1999.99935043415 0 2199.99934831446 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.8.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.8.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.9 = 2199.99934831446 0 2399.99931831139 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.9.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.9.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.10 = 2199.99934831446 0 2399.99931831139 0 -4 -1 0.205 1 3 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.10.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.10.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.11 = 2399.99931831139 0 3399.9993051611 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.11.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.11.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.12 = 2399.99931831139 0 3399.9993051611 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.12.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.12.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.13 = 2949.99930815205 0 3649.99929210582 0 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.13.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.13.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.14 = 3399.9993051611 0 3679.99929203469 0 -4 -1 0.205 1 3 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.14.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.14.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.15 = 3399.9993051611 0 3679.99929203469 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.15.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.15.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.16 = 3679.99929203469 0 5849.99884314712 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.16.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.16.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.17 = 3679.99929203469 0 5849.99884314712 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.17.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.17.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.18 = 3699.99929198639 0 3949.99917453575 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.18.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.18.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.19 = 4599.99915139001 0 4799.99914608199 0 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.19.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.19.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.20 = 4919.99912874816 0 5259.99885271086 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.20.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.20.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.21 = 5849.99884314712 0 6179.99876705616 0 -5.8 -1 0 4 7 0 10 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.21.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.21.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.22 = 5849.99884314712 0 6179.99876705616 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.22.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.22.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.23 = 5849.99884314712 0 6179.99876705616 0 -4 -1 0.205 1 3 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.23.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.23.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.24 = 6179.99876705616 0 7329.99847035225 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.24.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.24.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.25 = 6179.99876705616 0 7329.99847035225 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.25.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.25.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.26 = 6679.99862725975 0 6829.99856032044 0 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.26.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.26.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.27 = 6759.99857963952 0 6909.99855317054 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.27.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.27.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.28 = 6949.99853884795 0 7289.99848266289 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.28.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.28.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.29 = 7329.99847035225 0 7429.99822372786 0 -4 -1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.29.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.29.G.Material.Tex = 8 2
+Road.Link.0.TrafficBarrier.30 = 7329.99847035225 0 7429.99822372786 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.30.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.30.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.31 = 7429.99822372786 0 7829.99818372223 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.31.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.31.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.32 = 7429.99822372786 0 7829.99818372223 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.32.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.32.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.33 = 7819.99818374435 0 8119.99799277994 0 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.33.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.33.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.34 = 7829.99818372223 0 8129.9979926974 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.34.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.34.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.35 = 7829.99818372223 0 7979.99809563766 0 -4 -1 0.205 1 3 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.35.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.35.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.36 = 7979.99809563766 0 8129.9979926974 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.36.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.36.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.37 = 8129.9979926974 0 11529.997769725 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.37.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.37.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.38 = 8129.9979926974 0 11529.997769725 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.38.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.38.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.39 = 8349.99799102873 0 8373.99799093684 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.39.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.39.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.40 = 8359.9979910022 0 8407.99799061893 0 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.40.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.40.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.41 = 11149.9978012995 0 12509.9970896843 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.41.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.41.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.42 = 11529.997769725 0 12985.9969935297 0 -4 -1 0.205 1 3 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.42.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.42.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.43 = 11529.997769725 0 11589.9976743976 0 4 1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.43.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.43.G.Material.Tex = 8 2
+Road.Link.0.TrafficBarrier.44 = 11589.9976743976 0 12979.9969977017 0 4 1 0.205 1 3 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.44.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.44.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.45 = 12972.3969999826 0 12988.3969911284 0 4 1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.45.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.45.G.Material.Tex = 8 2
+Road.Link.0.TrafficBarrier.46 = 12974.9969994606 0 14334.9966000421 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.46.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.46.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.47 = 12979.9969977017 0 15299.9963704695 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.47.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.47.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.48 = 12987.9969915782 0 20888.7460557726 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.48.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.48.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.49 = 15009.9964101022 0 17009.9960474703 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.49.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.49.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.50 = 15300.046370395 0 15420.0463313759 0 4 1 0.205 1 3 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.50.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.50.G.Material.Tex = 8 3
+Road.Link.0.TrafficBarrier.51 = 15420.2463313592 0 20520.2459170394 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.51.G.Material = Textures/Infrastructure/GuardRail_1.jpg
+Road.Link.0.TrafficBarrier.51.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.52 = 17699.995948962 0 19199.9959438682 0 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.52.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.52.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.53 = 17699.995948962 0 19199.9959438682 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.53.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.53.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.54 = 19149.9959440741 0 20649.9958064474 0 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.54.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.54.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.55 = 20519.9959171088 0 20599.9958424157 0 4 1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.55.G.Material = Textures/Ground/Curb_1.png
+Road.Link.0.TrafficBarrier.55.G.Material.Tex = 8 2
+Road.Link.0.TrafficBarrier.56 = 20599.9958424157 0 0 1 4 1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.56.G.Material = Textures/Infrastructure/Concrete_1.jpg
+Road.Link.0.TrafficBarrier.56.G.Material.Tex = 4 3
+Road.Link.0.TrafficBarrier.57 = 20649.9958064474 0 0 1 -5.8 -1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.57.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.57.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.58 = 20649.9958064474 0 0 1 5.8 1 0 4 7 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.58.G.Material = Textures/Infrastructure/Fence_1.png
+Road.Link.0.TrafficBarrier.58.G.Material.Tex = 2 4
+Road.Link.0.TrafficBarrier.59 = 20749.9957035201 0 0 1 -4 -1 0.82 1.07 4 0 4 0 1 0 2 0 0
+Road.Link.0.TrafficBarrier.59.G.Material = 0.0,0.44,0.75
+Road.Link.0.TrafficBarrier.59.G.Material.Tex = 0 0
+Route.0.Name = Route
+Route.0.LinkList:
+	0 0
+Route.0.Path.0:
+	0 0 0
+Route.1.Name = ReverseRoute
+Route.1.LinkList:
+	0 1
+Route.1.Path.0:
+	0 0 0
+Road.MaxUsedObjId = 0
+Road.VhclStartPos = 20500 0 0
+Road.VhclRoute = Route
+Road.RouteId = 0
+Env.StartTime.Year = 2014
+Env.StartTime.Month = 1
+Env.StartTime.Day = 1
+Env.StartTime.Hour = 12
+Env.StartTime.Min = 0
+Env.StartTime.Sec = 0
+Env.StartTime.DeltaUTC = 0.0
+Env.GNav.Active = 0
+Env.Temperature = 20.0
+Env.AirDensity = 1.205
+Env.AirPressure = 1.013
+Env.AirHumidity = 60
+Env.SolarRadiation = 400.0
+Env.RainRate = 0.0
+Env.VisRangeInFog = 1000.0
+Env.Wind.Kind = none
+Env.Wind.Velocity = 0.0
+Env.Wind.Angle = 0.0
+Env.Kind = Generic
+Env.Temp.Offset_Elev = -0.0065
+Env.Temp.Offset_sRoad.Amplify = 1.0
+Env.Temp.Offset_sRoad.On = 0
+Env.Temp.Offset_Time.Amplify = 1.0
+Env.Temp.Offset_Time.On = 1
+Env.Temp.Offset_Time:
+	0.0 -2.0
+	3.0 -2.5
+	6.0 -2.7
+	7.5 -2.7
+	9.0 -2.5
+	10.0 -2.3
+	11.0 -1.6
+	12.0 0.0
+	13.0 1.4
+	14.0 2.1
+	15.5 2.5
+	17.0 2.2
+	18.0 1.7
+	19.0 1.1
+	20.0 0.2
+	21.0 -0.6
+	22.0 -1.1
+	23.0 -1.6
+	24.0 -2.0
+Driver.ParamIdent = IPGDriver 5
+Driver.Mode = race
+Driver.Long.DrivMaxSpeed = 1
+Driver.Long.CruisingSpeed = 100
+Driver.CornerCutCoef = 0.25
+Driver.ConsiderTraffic = 1
+Driver.Traffic.TimeGapMin = 1.8
+Driver.Traffic.TimeGapMax = 5.0
+Driver.Traffic.DistMin = 6
+Driver.Traffic.DistMax = 250
+Driver.Traffic.EcoCoef = 0.75
+Driver.Traffic.Overtake = 0
+Driver.Traffic.Overtake_Rate = 1
+Driver.Traffic.Overtake_dSpeedMin = 10
+Driver.Long.dtAccBrake = 0.75
+Driver.Long.axMax = 2.0
+Driver.Long.axMin = -2.0
+Driver.Long.ayMax = 3.0
+Driver.Long.GGExp:
+	50 0.5 0.5
+Driver.Long.DevMax = 0.0
+Driver.Long.tReact = 0.0
+Driver.Long.TractionControl = 1
+Driver.DecShift.UseBrakePark = 0
+Driver.DecShift.tSwitchGear = 1.5
+Driver.DecShift.nEngine.Limits:
+	1000 3000
+Driver.DecShift.nEngine.Shift:
+	1500 2000
+Driver.Lat.DevMax = 0.0
+Driver.Lat.tReact = 0.0
+Driver.Knowl.Long.tActionMin = 8
+Driver.Knowl.Lat.StWhlAngleMax = 630
+Driver.Knowl.Lat.StWhlAngleVelMax = 250
+Driver.Knowl.Lat.StWhlAngleAccMax = 1500
+Driver.Learn.VehicleLimits.TestRun = Examples_FS/FS_Hockenheim
+Driver.Learn.VehicleLimits.Date = 1506518218
+Driver.Learn.ControllerDyn.TestRun = Examples_FS/FS_Hockenheim
+Driver.Learn.ControllerDyn.Date = 1506518086
+Driver.Learn.MaxSpeed.TestRun = Examples_FS/FS_Hockenheim
+Driver.Learn.MaxSpeed.Date = 1506518054
+Driver.Learn.Remember = 1
+Driver.Learn.Friction = 1.0
+Driver.Knowl.Info =
+Driver.Knowl.Vehicle.iDiff = 3.50000
+Driver.Knowl.Vehicle.rWheel = 0.24500
+Driver.Knowl.Vehicle.iFGear = 2.50000	2.06700	1.75000	1.55500	1.40900	1.30000
+Driver.Knowl.Vehicle.iBGear = -4.00000
+Driver.Knowl.Vehicle.Aero.Factor_axAccel = 1.000
+Driver.Knowl.Vehicle.Aero.Factor_axDecel = 1.000
+Driver.Knowl.Vehicle.Aero.Factor_ay = 0.950
+Driver.Knowl.Vehicle.Aero:
+	20.00 2.81 -11.80 3.00
+	30.00 2.86 -12.18 3.00
+	40.00 3.05 -12.55 3.00
+	50.00 3.44 -12.93 3.00
+	60.00 3.95 -13.35 3.00
+	70.00 4.32 -13.87 3.00
+	80.00 4.55 -14.41 3.00
+	90.00 4.58 -14.96 3.00
+	100.00 4.36 -15.51 3.00
+	110.00 3.96 -16.07 3.00
+	120.00 3.48 -16.61 3.00
+	130.00 3.00 -17.02 3.00
+	140.00 2.57 -17.15 3.00
+	150.00 2.15 -17.15 3.00
+	160.00 1.77 -17.13 3.00
+	170.00 1.41 -17.13 3.00
+	180.00 1.13 -17.13 3.00
+	190.00 1.01 -17.13 3.00
+	200.00 0.99 -17.13 3.00
+Driver.Knowl.Lat.tPreview = 0.580
+Driver.Knowl.Lat.tYawPro = 0.020
+Driver.Knowl.Lat.tPreDyn = 0.040
+Driver.Knowl.Lat.LimitSideSlip = 7.663
+Driver.Knowl.Lat.StWhlTorqueAmplify = 1.000
+Driver.Knowl.Lat.StWhlTorqueAmplifyC = 1.000
+Driver.Knowl.Lat.StWhlTorqueAmplifyV = 1.000
+Driver.Knowl.Long.tPreviewAcc = 1.093
+Driver.Knowl.Long.tPreviewBra = 0.664
+Driver.Knowl.Long.tPreEngDyn = 0.104
+Driver.Knowl.Long.tPreBraDyn = 0.250
+Driver.Knowl.Long.SlipMax:
+	46.78 5.13 2.94
+	73.05 5.22 2.99
+	97.13 5.53 3.17
+Driver.Learn.Engine.TrqMax:
+	8322 43.25
+	8312 40.51
+	8080 35.74
+	8070 30.73
+	6411 26.56
+	6409 22.34
+Driver.Learn.Engine.PwrMax:
+	9502 40.0455
+	9272 36.5621
+	8765 31.1884
+	8311 26.5210
+	8307 21.3378
+	8069 16.1107
+Driver.Learn.nEngineIdle = 1720
+Driver.Learn.nEngineMax = 13508
+Driver.Learn.nEngine.MaxSpeed:
+	1720 11786
+	6104 11449
+	5882 11318
+	5584 11268
+	5502 10226
+	5353 13512
+Driver.Learn.nEngine.Standard:
+	1720 11786
+	6104 11449
+	5882 11317
+	5584 11268
+	5502 10181
+	5353 13508
+Driver.Learn.vIdle = 17.904
+Driver.Learn.vMax = 197.635
+Driver.Learn.vG2nEng025 = 61.726
+Driver.Learn.vG2nEng075 = 139.675
+Driver.Learn.axBra_vG2nEng05 = -13.069
+Driver.Learn.axAccG2 = 2.248
+Driver.Learn.axDragG1 = 0.5
+Driver.Learn.tYawPro_YawAcc = 87.649
+Driver.Learn.tYawPro_StWhlA = 6.128
+Driver.Learn.vnEng05 = 82	50	75	99	124	148
+Driver.Learn.axAccMax = 4.59	3.56	2.66	2.03	1.59	1.23
+Driver.Learn.ayMax = 0.00	11.52	11.39	11.21	0.00	0.00
+Driver.Learn.StWhlA_ayMax = 0.00	63.12	28.05	11.78	5.29	0.00
+Driver.Learn.PT_Kind = 1
+Driver.Learn.PT_h_COG = 0.453
+Driver.Learn.PT_SlipMax = 0.000	0.000	1.853	1.853
+Driver.Learn.NEng_S = 1

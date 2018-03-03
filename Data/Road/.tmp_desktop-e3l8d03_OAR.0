@@ -1,0 +1,38 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = IPGRoad 6.0
+FileCreator = CarMaker for Simulink 6.0.3
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 53
+nRoutes = 1
+RoadNetworkLength = 1000
+BBox = 0 1000 -1003.5 1003.5 -0.15 0.35
+Route.0.Length = 1000
+RST.Unit = kmh
+RST = 50 100 130 30 70 30 0 -3.6
+Movie = 0.2 1 0.02 1.5 1.5 1 1
+PathMode = 0
+Link.0.Junctions = -2 -1 -2 -1
+Link.0.Node0 = 0 0 0.1 0
+Link.0.RST = countryroad
+Link.0.Friction = 1
+Link.0.Seg.0.Type = Straight
+Link.0.Seg.0.Param = 1000 0 0 0 0 0 0 0
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0 = 1 1000 1000 0 0 0 0
+Link.0.LaneSection.0.LaneL.0.RoadMarking.0 = 0 0 0 1 0 1 0.15 0 1 0 0 2 4 1 1 0 "1.0,1.0,1.0"
+Link.0.LaneSection.0.LaneL.1 = 0 1 1 4 0 0 0
+Link.0.LaneSection.0.LaneL.2 = 0 2.5 2.5 5 0 0 0
+Link.0.LaneSection.0.LaneR.0 = 0 1000 1000 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.RoadMarking.0 = 0 0 0 1 0 -1 0.15 0 1 0 0 2 4 1 1 0 "1.0,1.0,1.0"
+Link.0.LaneSection.0.LaneR.1 = 0 1 1 4 0 0 0
+Link.0.LaneSection.0.LaneR.2 = 0 2.5 2.5 5 0 0 0
+Link.0.LaneSection.0.RoadMarking.0 = 0 0 0 1 0 0 0.15 0 2 0 0 2 4 1 1 0 "1.0,1.0,1.0"
+Route.0.Name = Route_0
+Route.0.LinkList:
+	0 0
+Route.0.Path.0:
+	0 0 0
+	999.99 0 0
+MaxUsedObjId = 0

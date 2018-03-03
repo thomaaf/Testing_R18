@@ -1,0 +1,14 @@
+
+  ----------------------------------------------------------------------------------------------------------------------------
+  IPGKinematics  Version 3.6.1                                            Model: Querlenker                                   
+  ----------------------------------------------------------------------------------------------------------------------------
+
+   Table: Simplifications                                                 gnistFront                                          
+
+   Mass-Forces         - switched off                       
+   Stabilizer          - switched off                       
+  
+   Pull/Push Rod       - Stiffness             [N/mm] :       10000.00
+                       - Spring-Unit           [N/mm] :           0.00
+   Bushings            - Stiffness             [N/mm] :       10000.00
+

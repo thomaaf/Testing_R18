@@ -1,0 +1,190 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = IPGRoad 6.0
+FileCreator = CarMaker 6.0.3
+Country = DEU
+nLinks = 1
+nJunctions = 1
+nObjects = 134
+nRoutes = 1
+RoadNetworkLength = 2597.25886049562
+BBox = -382.791202650338 361.310939006318 -467.748443426543 16 -1.98 1.53
+Route.0.Length = 7791.77658148685
+RST.Unit = kmh
+RST = 50 100 -3.6 30 70 50 -3.6 -3.6
+Movie = 0.2 1 0.02 20 20 0.1 0.1
+PathMode = 0
+Junction.0.Knot = 0 0 0
+Junction.0.RST = urban
+Junction.0.Arm.0 = 0 0 0
+Junction.0.Arm.1 = 180 0 0
+Junction.0.MainArms = 0 1
+Link.0.Junctions = 0 0 0 1
+Link.0.Friction = 1
+Link.0.Seg.0.Type = Straight
+Link.0.Seg.0.Param = 200 0 0 0 0 0 0 0
+Link.0.Seg.1.Type = TurnRight
+Link.0.Seg.1.Param = 68 69 0 0 0 0 0 0
+Link.0.Seg.2.Type = Straight
+Link.0.Seg.2.Param = 220 0 0 0 0 0 0 0
+Link.0.Seg.3.Type = TurnRight
+Link.0.Seg.3.Param = 45 102 0 0 0 0 0 0
+Link.0.Seg.4.Type = TurnRight
+Link.0.Seg.4.Param = 150 35 0 0 0 0 0 0
+Link.0.Seg.5.Type = TurnLeft
+Link.0.Seg.5.Param = 150 35 0 0 0 0 0 0
+Link.0.Seg.6.Type = Straight
+Link.0.Seg.6.Param = 200 0 0 0 0 0 0 0
+Link.0.Seg.7.Type = TurnLeft
+Link.0.Seg.7.Param = 160 47 0 0 0 0 0 0
+Link.0.Seg.8.Type = TurnRight
+Link.0.Seg.8.Param = 160 47 0 0 0 0 0 0
+Link.0.Seg.9.Type = TurnRight
+Link.0.Seg.9.Param = 35 89 0 0 0 0 0 0
+Link.0.Seg.10.Type = Straight
+Link.0.Seg.10.Param = 60 0 0 0 0 0 0 0
+Link.0.Seg.11.Type = TurnRight
+Link.0.Seg.11.Param = 95 84 0 0 0 0 0 0
+Link.0.Seg.12.Type = Straight
+Link.0.Seg.12.Param = 220 0 0 0 0 0 0 0
+Link.0.Seg.13.Type = TurnLeft
+Link.0.Seg.13.Param = 40 155 0 0 0 0 0 0
+Link.0.Seg.14.Type = Straight
+Link.0.Seg.14.Param = 60 0 0 0 0 0 0 0
+Link.0.Seg.15.Type = TurnLeft
+Link.0.Seg.15.Param = 90 52 0 0 0 0 0 0
+Link.0.Seg.16.Type = TurnRight
+Link.0.Seg.16.Param = 100 27 0 0 0 0 0 0
+Link.0.Seg.17.Type = Straight
+Link.0.Seg.17.Param = 45 0 0 0 0 0 0 0
+Link.0.Seg.18.Type = TurnRight
+Link.0.Seg.18.Param = 50 77 0 0 0 0 0 0
+Link.0.Seg.19.Type = Straight
+Link.0.Seg.19.Param = 45 0 0 0 0 0 0 0
+Link.0.Seg.20.Type = TurnRight
+Link.0.Seg.20.Param = 69.5 119 0 0 0 0 0 0
+Link.0.Seg.21.Type = Straight
+Link.0.Seg.21.Param = 290 0 0 0 0 0 0 0
+Link.0.Seg.22.Type = PointList
+Link.0.Seg.22.Param = 1 0 1 0 0 0 0 0
+Link.0.Seg.22.PointList:
+	0 0
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0 = 0 6 6 0 0 0 0
+Link.0.LaneSection.0.LaneL.0.Width:
+	0 0 0 6 0 -999 -999
+Link.0.LaneSection.0.LaneL.1 = 2 10 10 5 0 0 0
+Link.0.LaneSection.0.LaneR.0 = 0 6 6 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.Width:
+	0 0 0 6 0 -999 -999
+Link.0.LaneSection.0.LaneR.1 = 2 10 10 5 0 0 0
+Link.0.ElevationProfile.Params = 0 0
+Link.0.ElevationProfile:
+	0 0 0
+	1996.41854505907 0 0
+	2000.41854505907 -0.02 -0.01
+	2041.41854505907 -0.43 -0.01
+	2045.41854505907 -0.45 0
+	2108.61372126085 -0.45 0
+	2112.61372126085 -0.43 0.01
+	2153.61372126085 -0.02 0.01
+	2157.61372126085 0 0
+	2299.96117704704 0 0
+	2597.96117704704 0 0
+Link.0.SlopeProfile.Params = 0 0
+Link.0.SlopeProfile:
+	0 0.01 0
+	179.527287874107 0.01 0
+	220.472712125893 0.03 0
+	261.41813637768 0.03 0
+	302.363560629467 0.02 0
+	481.863195336939 0.02 0
+	521.918501670209 0.03 0
+	561.973808003479 0.03 0
+	602.029114336749 0.02 0
+	650.72380046739 0.02 0
+	696.538693332242 -0.01 0
+	742.353586197093 -0.01 0
+	788.168479061944 0 0
+	932.448842692025 0 0
+	998.073222567012 0 0
+	1063.697602442 0 0
+	1129.32198231699 0.01 0
+	1214.16680057956 0.01 0
+	1241.35030367937 0.01 0
+	1268.53380677918 0.01 0
+	1295.71730987899 0.01 0
+	1327.12555832909 0.01 0
+	1357.12555832909 0.03 0
+	1446.58351406095 0.03 0
+	1516.22215121552 -0.03 0
+	1674.35022923232 -0.03 0
+	1728.45543604415 -0.08 0
+	1794.61324626188 -0.08 0
+	1824.61324626188 -0.05 0
+	1854.61324626188 -0.05 0
+	1884.61324626188 -0.05 0
+	1939.51368280426 -0.05 0
+	1963.07562770618 0.05 0
+	1987.16854505907 0.05 0
+	2009.66854505907 0.05 0
+	2032.16854505907 0.05 0
+	2054.66854505907 0.08 0
+	2099.36372126085 0.08 0
+	2121.86372126085 0.04 0
+	2144.36372126085 0.04 0
+	2166.86372126085 0.04 0
+	2263.87431310049 0.04 0
+	2336.04804099359 0.01 0
+	2597.96117704704 0.01 0
+Link.0.Marker.0.Type = DrivManTrigger
+Link.0.Marker.0.Param = 650 0 1  2 1
+Link.0.Marker.1.Type = DrivManTrigger
+Link.0.Marker.1.Param = 1300 0 1  2 2
+Link.0.Marker.2.Type = DrivManTrigger
+Link.0.Marker.2.Param = 1950 0 1  2 3
+Link.0.Marker.3.Type = DrivManTrigger
+Link.0.Marker.3.Param = 0 1 1  3 0
+Link.0.SignPlate.0 = 100 0 8 0 0.7 1.2 0 1.5 0 "Textures/Sign_Dist100m.png"
+Link.0.SignPlate.1 = 150 0 8 0 0.7 1.2 0 1.5 0 "Textures/Sign_Dist50m.png"
+Link.0.SignPlate.2 = 281.890848503574 0 -8 0 1.25 1 0 1.5 0 "Textures/Logo_IPG_3.png"
+Link.0.TreeStrip.0 = 0 0 1460 0 10 1 30 5 0.9 0.9 0.1 0.1
+Link.0.TreeStrip.1 = 0 0 1460 0 -10 -1 30 5 0.9 0.9 0.1 0.1
+Link.0.TreeStrip.2 = 311.890848503574 0 2191.89084850357 0 5 1 20 10 0.9 0.9 0.1 0.1
+Link.0.TreeStrip.3 = 311.890848503574 0 2191.89084850357 0 -5 -1 20 10 0.9 0.9 0.1 0.1
+Link.0.TreeStrip.4 = 1819.61324626188 0 2589.61324626188 0 -10 -1 5 20 0.9 0.9 0.1 0.1
+Link.0.RoadMarking.0 = 0 0 0 1 0 0 12 0 2 0 0 0.5 2600 1 1 4 ""
+Link.0.RoadMarking.1 = 0 0 0 1 -0.1 1 0.5 0 1 0 0 5 0 1 1 4 ""
+Link.0.RoadMarking.2 = 0 0 0 1 0.1 -1 0.5 0 1 0 0 5 0 1 1 4 ""
+Link.0.TrafficBarrier.0 = 0 0 200 0 4 1 0 1 7 0 5 0 1 0 2 0 0
+Link.0.TrafficBarrier.0.G.Material = Textures/GuardRail_1.jpg
+Link.0.TrafficBarrier.0.G.Material.Tex = 4 3
+Link.0.TrafficBarrier.1 = 0 0 200 0 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Link.0.TrafficBarrier.1.G.Material = Textures/GuardRail_1.jpg
+Link.0.TrafficBarrier.1.G.Material.Tex = 4 3
+Link.0.TrafficBarrier.2 = 200 0 425 0 4 1 0.82 1.07 4 0 8 0 1 0 2 0 0
+Link.0.TrafficBarrier.2.G.Material = Textures/Curb_1.png
+Link.0.TrafficBarrier.2.G.Material.Tex = 8 2
+Link.0.TrafficBarrier.3 = 200 0 425 0 -4 -1 0.82 1.07 4 0 8 0 1 0 2 0 0
+Link.0.TrafficBarrier.3.G.Material = Textures/Curb_1.png
+Link.0.TrafficBarrier.3.G.Material.Tex = 8 2
+Link.0.TrafficBarrier.4 = 225 0 0 1 4 1 0 1 7 0 5 0 1 0 2 0 0
+Link.0.TrafficBarrier.4.G.Material = Textures/GuardRail_1.jpg
+Link.0.TrafficBarrier.4.G.Material.Tex = 4 3
+Link.0.TrafficBarrier.5 = 225 0 0 1 -4 -1 0 1 7 0 5 0 1 0 2 0 0
+Link.0.TrafficBarrier.5.G.Material = Textures/GuardRail_1.jpg
+Link.0.TrafficBarrier.5.G.Material.Tex = 4 3
+Route.0.Name = Route_0
+Route.0.LinkList:
+	0 0
+	0 0
+	0 0
+Route.0.Path.0:
+	0 0 0
+	2597.24886049562 0 0
+Route.0.Path.1:
+	0 0 0
+	2597.24886049562 0 0
+Route.0.Path.2:
+	0 0 0
+	2597.24886049562 0 0
+MaxUsedObjId = 0

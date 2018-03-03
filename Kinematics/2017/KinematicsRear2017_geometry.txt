@@ -1,0 +1,56 @@
+
+  ----------------------------------------------------------------------------------------------------------------------------
+  IPGKinematics  Version 3.6.5                                            Model: Querlenker                                   
+  ----------------------------------------------------------------------------------------------------------------------------
+
+   Table: Geometry                                                        Suspension Kinematics 2017                          
+
+   Geometry [mm]: X - Y - Z                                       
+   -----------------------------------------------                
+   Axis System                                                    
+   0 = DIN 70000, 1 = Automobil Industrie                            0
+                                                                  
+   Point  1 Wheel Center                                               500.000         590.000         235.000
+   Point  2 Center of Tire Contact                                     500.000         590.000           0.000
+   Point  3 Force Application Tire Forces                              500.000         590.000           0.000
+   Point  4 Body - Chassis Subframe Front                              690.000         225.000         136.000
+   Point  5 Body - Chassis Subframe Rear                               450.000         225.000         133.500
+   Point  6 Wheel Carrier - Lower Wishbone                             515.000         565.000         135.000
+   Point  7 Wheel Carrier - Upper Wishbone                             515.000         530.000         328.300
+   Point  8 Wheel Carrier - Steering Rod                               410.000         563.000         233.350
+   Point  9 Subframe - Bushing Front Lower Wishbone                    690.000         225.000         136.000
+   Point 10 Subframe - Bushing Rear  Lower Wishbone                    450.000         225.000         133.500
+   Point 11 Vehicle  - Bushing Front Upper Wishbone                    690.000         280.000         293.000
+   Point 12 Vehicle  - Bushing Rear  Upper Wishbone                    448.000         280.000         299.000
+   Point 13 Chassis Subframe - Stabilizer Bar                          700.000         590.000         335.000
+   Point 14 Stabilizer Bar   - Stabilizer Link                         500.000         590.000         335.000
+   Point 15 Stabilizer Link  - Wheel Suspension                        500.000         590.000         235.000
+   Point 16 Steering Rod     - Steering Rack                           445.000         261.000         214.450
+   Point 17 Chassis Subframe - Steering Gearbox                        445.000           0.000         214.450
+   Point 18 Spring           - Body                                    515.000         565.000         635.000
+   Point 19 Spring           - Wheel Suspension                        515.000         565.000         135.000
+   Point 20 Damper           - Body                                    515.000         565.000         635.000
+   Point 21 Damper           - Lower Wishbone                          515.000         565.000         135.000
+   Point 22 Axle Drive Shaft - Differential                            500.000           0.000         235.000
+   Point 23 Axle Drive Shaft - Wheel                                   500.000         590.000         235.000
+                                                                  
+   Geometry by using Pull/Push Rods                               
+   -----------------------------------------------                
+   Point 24 Body           - Rocker Arm                                515.000         252.000         444.000
+   Point 25 Rotation Axis  - Rocker Arm                                565.000         252.000         444.000
+   Point 26 Pull/Push Rod  - Wheel Suspension                          515.000         503.000         344.700
+   Point 27 Pull/Push Rod  - Rocker Arm                                515.000         284.050         478.370
+   Point 28 Spring Element - Body                                      515.000          70.000         488.500
+   Point 29 Spring Element - Rocker Arm                                515.000         242.030         518.330
+                                                                  
+   Geometry by using Pull/Push Rods Stabilizer                    
+   -----------------------------------------------                
+   Point 30 Joint Stabi Torsion Bar  - Body                            547.000           0.000         300.000
+   Point 31 Rod Stabi Torsion Bar    - Rocker Arm                      547.000         254.930         485.550
+   Point 32 Rod Stabi Torsion Bar    - Torsion Bar                     547.000         254.930         320.000
+   Point 33 Spring Stabi Torsion Bar - Body                            547.000           0.000         485.550
+   Point 34 Spring Stabi Torsion Bar - Torsion Bar                     547.000           0.000         320.000
+   Point 35 Marker Damper Rocker Arm                                   100.000        -100.000         500.000
+                                                                  
+   Point 36 Body -> Turning Circle Dia.: X-Y-Radius                   -500.000        -775.000         250.000
+                                                                  

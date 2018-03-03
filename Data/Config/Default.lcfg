@@ -1,0 +1,13 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = Scenario-LaneConfig 1.0
+FileCreator = CarMaker for Simulink 6.0.3 2017-9-22
+
+Name = Default
+Prio = 1
+
+LaneR.0 = border 3.5
+LaneR.1 = border 1.0
+
+RoadMarkingR.0 = dash 2.0 4.0 0.15 {1.0 1.0 1.0}
+RoadMarkingR.1 = none 2.0 4.0 0.15 {1.0 1.0 1.0}
+RoadMarkingC = dash 2.0 4.0 0.15 {1.0 1.0 1.0}

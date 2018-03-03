@@ -1,0 +1,179 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 05:42:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	26.567
+SIM_END		FS_Braking_po	26.563s	450.274m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 05:45:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	26.578
+SIM_END		FS_Braking_po	26.574s	450.274m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 05:51:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	31.719
+SIM_END		FS_Braking_po	31.718s	436.27m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 05:57:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	31.719
+SIM_END		FS_Braking_po	31.718s	454.141m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 06:00:53
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	31.719
+SIM_END		FS_Braking_po	31.718s	436.27m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 06:04:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	31.719
+SIM_END		FS_Braking_po	31.718s	454.141m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 08:09:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	31.719
+SIM_END		FS_Braking_po	31.718s	436.27m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 08:20:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	23.083
+SIM_END		FS_Braking_po	23.079s	450.26m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Braking_po	2017-07-30 08:24:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Braking_po
+
+TIME	22.768
+SIM_END		FS_Braking_po	22.764s	454.107m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-30 13:57:44
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	4.505
+SIM_END		axxx	4.504s	102.017m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-30 13:58:47
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	4.505
+SIM_END		axxx	4.504s	102.017m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-30 13:59:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	4.505
+SIM_END		axxx	4.504s	102.017m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	axxx	2017-07-30 14:01:23
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxx
+
+TIME	4.505
+SIM_END		axxx	4.504s	101.091m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Performance/LaneChangeISO_DemoCar	2017-07-30 16:48:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Performance/LaneChangeISO_DemoCar
+
+TIME	30.009
+SIM_END		Performance/LaneChangeISO_DemoCar	30.008s	642.43m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2017-07-30 16:51:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	38.654
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby	38.65s	554.821m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby	2017-07-30 16:57:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby
+
+TIME	52.250
+		Lap   1: t=  52.249s	Dist=776.9462m	sRoad=1.1537m
+TIME	103.604
+		Lap   2: t=  51.354s	Dist=778.6861m	sRoad=1.1483m
+TIME	154.936
+		Lap   3: t=  51.332s	Dist=778.8410m	sRoad=1.1427m
+TIME	206.251
+		Lap   4: t=  51.315s	Dist=778.7231m	sRoad=1.1544m
+TIME	257.558
+		Lap   5: t=  51.307s	Dist=778.6197m	sRoad=1.1523m
+TIME	308.797
+		Lap   6: t=  51.239s	Dist=777.7279m	sRoad=1.1520m
+TIME	360.091
+		Lap   7: t=  51.294s	Dist=778.5208m	sRoad=1.1477m
+TIME	411.394
+		Lap   8: t=  51.303s	Dist=778.7139m	sRoad=1.1475m
+TIME	462.715
+		Lap   9: t=  51.321s	Dist=778.7924m	sRoad=1.1403m
+TIME	511.673
+ERROR		Vehicle leaves road at about x=-31.3974, y=14.4811 TireNo=0
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby	511.675s	7749.21m

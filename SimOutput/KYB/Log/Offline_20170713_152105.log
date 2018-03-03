@@ -1,0 +1,134 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-13 15:24:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	13.357
+ERROR		Vehicle leaves road at about x=17.6207, y=3.10805 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	13.359s	170.253m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-13 15:24:40
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	49.213
+ERROR		Vehicle leaves road at about x=-25.4518, y=13.0873 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	49.215s	596.701m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-13 15:26:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.489
+ERROR		Vehicle leaves road at about x=-27.8741, y=21.4401 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.491s	5142.29m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-13 15:50:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.434
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.43s	5141.06m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-13 16:22:44
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.424
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.42s	5140.85m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 02:07:34
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	13.351
+ERROR		Vehicle leaves road at about x=17.5139, y=3.02429 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	13.353s	170.12m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 02:11:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	12.514
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	12.51s	3.53805m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 02:15:41
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.489
+ERROR		Vehicle leaves road at about x=-27.8724, y=21.4257 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.491s	5142.3m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 02:53:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	130.294
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	130.29s	422.48m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 03:05:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	34.544
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	34.54s	28.9676m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 03:10:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.434
+SIM_END		r25m_circle_ELD_slowAcc_stiff_cold	450.43s	5141.07m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 04:47:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+
+TIME	450.471
+ERROR		Vehicle leaves road at about x=-27.9046, y=21.6876 TireNo=3
+SIM_ABORT	r25m_circle_ELD_slowAcc_stiff_cold	450.47s	5142.09m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	r25m_circle_ELD_slowAcc_stiff_cold	2017-07-14 05:11:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc_stiff_cold
+

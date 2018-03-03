@@ -1,0 +1,685 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:07:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	67.036
+		Lap   1: t=  67.035s	Dist=776.8788m	sRoad=1.0817m
+TIME	132.305
+		Lap   2: t=  65.269s	Dist=777.7781m	sRoad=1.0768m
+TIME	197.643
+		Lap   3: t=  65.338s	Dist=777.9207m	sRoad=1.0780m
+TIME	263.084
+		Lap   4: t=  65.441s	Dist=778.0994m	sRoad=1.0757m
+TIME	328.621
+		Lap   5: t=  65.537s	Dist=778.1814m	sRoad=1.0746m
+TIME	394.199
+		Lap   6: t=  65.578s	Dist=777.8195m	sRoad=1.0717m
+TIME	459.572
+		Lap   7: t=  65.373s	Dist=777.4772m	sRoad=1.0761m
+TIME	500.627
+SIM_END		Examples_FS/FS_Competition_Germany_2006	500.623s	5927.12m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:15:54
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	46.783
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (-9.2 km/h) -> set to 20 km/h (id=200)
+TIME	68.124
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (-3.6 km/h) -> set to 20 km/h (id=200)
+TIME	87.689
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (1.4 km/h) -> set to 20 km/h (id=200)
+TIME	105.676
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (5.9 km/h) -> set to 20 km/h (id=200)
+TIME	122.150
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (10.0 km/h) -> set to 20 km/h (id=200)
+TIME	137.243
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (13.7 km/h) -> set to 20 km/h (id=200)
+TIME	151.089
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (17.0 km/h) -> set to 20 km/h (id=200)
+TIME	695.672
+WARNING		IPGDriver: OLS_ayMax = 0 changed to 10 (t = 695.671000, Gear = 5) (id=200)
+TIME	708.926
+WARNING		IPGDriver: OLS_ayMax = 0 changed to 10 (t = 708.925000, Gear = 5) (id=200)
+TIME	779.436
+WARNING		IPGDriver: Learn procedure (t=779.435s): (id=200)
+TIME	2160.794
+SIM_END		Examples_FS/FS_Competition_Germany_2006	2160.79s	20915.8m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:49:00
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	61.476
+		Lap   1: t=  61.475s	Dist=778.9296m	sRoad=1.0724m
+TIME	116.522
+SIM_END		Examples_FS/FS_Competition_Germany_2006	116.518s	1498.91m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:50:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	61.163
+		Lap   1: t=  61.162s	Dist=778.3543m	sRoad=1.0836m
+TIME	121.463
+		Lap   2: t=  60.300s	Dist=780.5452m	sRoad=1.0712m
+TIME	181.743
+		Lap   3: t=  60.280s	Dist=780.5572m	sRoad=1.0813m
+TIME	242.023
+		Lap   4: t=  60.280s	Dist=780.5430m	sRoad=1.0711m
+TIME	302.303
+		Lap   5: t=  60.280s	Dist=780.5610m	sRoad=1.0846m
+TIME	362.583
+		Lap   6: t=  60.280s	Dist=780.5452m	sRoad=1.0833m
+TIME	373.564
+SIM_END		Examples_FS/FS_Competition_Germany_2006	373.56s	4837.45m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:53:56
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	61.476
+		Lap   1: t=  61.475s	Dist=778.9296m	sRoad=1.0724m
+TIME	68.750
+SIM_END		Examples_FS/FS_Competition_Germany_2006	68.746s	867.744m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:55:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	12.382
+SIM_END		Examples_FS/FS_Competition_Germany_2006	12.378s	162.863m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:55:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	61.163
+		Lap   1: t=  61.162s	Dist=778.3543m	sRoad=1.0836m
+TIME	121.463
+		Lap   2: t=  60.300s	Dist=780.5452m	sRoad=1.0712m
+TIME	181.743
+		Lap   3: t=  60.280s	Dist=780.5572m	sRoad=1.0813m
+TIME	194.288
+SIM_END		Examples_FS/FS_Competition_Germany_2006	194.284s	2517.56m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 13:59:25
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	61.510
+		Lap   1: t=  61.509s	Dist=779.1248m	sRoad=1.0825m
+TIME	93.540
+SIM_END		Examples_FS/FS_Competition_Germany_2006	93.536s	1193.72m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 14:01:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	61.510
+		Lap   1: t=  61.509s	Dist=779.1248m	sRoad=1.0825m
+TIME	121.574
+SIM_END		Examples_FS/FS_Competition_Germany_2006	121.57s	1552.54m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 16:07:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	18.986
+SIM_END		Examples_FS/FS_Competition_Germany_2006	18.982s	262.266m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-21 16:08:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	61.163
+		Lap   1: t=  61.162s	Dist=778.3543m	sRoad=1.0836m
+TIME	121.463
+		Lap   2: t=  60.300s	Dist=780.5452m	sRoad=1.0712m
+TIME	181.743
+		Lap   3: t=  60.280s	Dist=780.5572m	sRoad=1.0813m
+TIME	242.023
+		Lap   4: t=  60.280s	Dist=780.5430m	sRoad=1.0711m
+TIME	302.303
+		Lap   5: t=  60.280s	Dist=780.5610m	sRoad=1.0846m
+TIME	361.646
+SIM_END		Examples_FS/FS_Competition_Germany_2006	361.642s	4668.33m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 18:04:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.694
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.693s	263.603m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 18:04:50
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.694
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.693s	263.603m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 18:51:53
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	6.531
+ERROR		Roll angle too high (-80.23 deg)
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad	6.533s	48.6319m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 18:52:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	4.602
+ERROR		Roll angle too high (-80.22 deg)
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad	4.604s	43.7728m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 18:55:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	4.054
+WARNING		IPGDriver: Learn procedure not finished, knowledge not complete. (id=202)
+SIM_END		Examples_FS/FS_Competition_SkidPad	4.05s	3.97947m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 18:56:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	40.543
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (-4.4 km/h) -> set to 20 km/h (id=200)
+TIME	61.208
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (8.3 km/h) -> set to 20 km/h (id=200)
+TIME	80.579
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (9.5 km/h) -> set to 20 km/h (id=200)
+TIME	98.031
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (10.5 km/h) -> set to 20 km/h (id=200)
+TIME	113.721
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (13.4 km/h) -> set to 20 km/h (id=200)
+TIME	127.966
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (16.8 km/h) -> set to 20 km/h (id=200)
+TIME	140.967
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (19.9 km/h) -> set to 20 km/h (id=200)
+TIME	439.221
+ERROR		IPGDriver: LearnProc (t=439.220000, roll angle > 45deg (45.133074)): procedure will be stopped -> IPGDrv_LPhase_FIN (id=400)
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 439.220000, ErrInd = 400). (id=200)
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad	439.223s	4759.29m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 19:23:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	3.703
+ERROR		Roll angle too high (-80.01 deg)
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad	3.705s	36.5101m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-21 19:24:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	27.418
+SIM_END		Examples_FS/FS_Competition_SkidPad	27.417s	264.057m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Acceleration	2017-02-22 12:50:48
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration
+
+TIME	4.098
+SIM_END		Examples_FS/FS_Acceleration	4.097s	75.0435m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Acceleration	2017-02-22 12:51:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration
+
+TIME	4.098
+SIM_END		Examples_FS/FS_Acceleration	4.097s	75.0435m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Acceleration	2017-02-22 14:26:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration
+
+TIME	4.098
+SIM_END		Examples_FS/FS_Acceleration	4.097s	75.0435m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 14:26:42
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	16.608
+SIM_END		Examples_FS/FS_Competition_SkidPad	16.604s	157.968m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 14:27:32
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.694
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.693s	263.603m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 14:49:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.694
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.693s	263.603m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 14:49:51
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.694
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.693s	263.603m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 15:00:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	16.006
+SIM_END		Examples_FS/FS_Competition_SkidPad	16.002s	151.414m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 15:00:55
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.694
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.693s	263.603m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:07:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	66.893
+		Lap   1: t=  66.892s	Dist=775.6028m	sRoad=1.0814m
+TIME	108.383
+SIM_END		Examples_FS/FS_Competition_Germany_2006	108.379s	1261.21m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:10:24
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	12.847
+ERROR		Roll angle too high (-80.23 deg)
+SIM_ABORT	Examples_FS/FS_Competition_Germany_2006	12.849s	192.748m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:11:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	23.486
+ERROR		Roll angle too high (80.15 deg)
+SIM_ABORT	Examples_FS/FS_Competition_Germany_2006	23.488s	342.961m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:12:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	22.055
+SIM_END		Examples_FS/FS_Competition_Germany_2006	22.051s	272.251m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:13:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	64.295
+		Driver results: event 1 (t=  64.291s, s=  745.60m)
+SIM_END		Examples_FS/FS_Competition_Germany_2006	64.291s	745.597m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:14:51
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	65.889
+		Driver results: event 1 (t=  65.888s, s=  766.91m)
+		Lap   1: t=  66.573s	Dist=775.5843m	sRoad=1.0755m
+TIME	130.881
+		Driver results: event 2 (t= 130.880s, s= 1544.13m)
+		Lap   2: t=  64.993s	Dist=777.2277m	sRoad=1.0824m
+TIME	195.851
+		Driver results: event 3 (t= 195.850s, s= 2321.37m)
+		Lap   3: t=  64.969s	Dist=777.2082m	sRoad=1.0800m
+TIME	260.811
+		Driver results: event 4 (t= 260.810s, s= 3098.56m)
+		Lap   4: t=  64.961s	Dist=777.1979m	sRoad=1.0750m
+TIME	325.767
+		Driver results: event 5 (t= 325.766s, s= 3875.77m)
+		Lap   5: t=  64.955s	Dist=777.1947m	sRoad=1.0767m
+TIME	390.711
+		Driver results: event 6 (t= 390.710s, s= 4652.95m)
+		Lap   6: t=  64.945s	Dist=777.1825m	sRoad=1.0738m
+TIME	455.655
+		Driver results: event 7 (t= 455.654s, s= 5430.14m)
+		Lap   7: t=  64.943s	Dist=777.1781m	sRoad=1.0730m
+TIME	520.591
+		Driver results: event 8 (t= 520.590s, s= 6207.31m)
+		Lap   8: t=  64.937s	Dist=777.1750m	sRoad=1.0810m
+TIME	585.529
+		Driver results: event 9 (t= 585.528s, s= 6984.46m)
+		Lap   9: t=  64.937s	Dist=777.1438m	sRoad=1.0734m
+TIME	600.005
+		Driver results: event 10 (t= 600.004s, s= 7170.93m)
+SIM_END		Examples_FS/FS_Competition_Germany_2006	600.004s	7170.93m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:23:27
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	66.118
+		Lap   1: t=  66.117s	Dist=775.2993m	sRoad=1.0756m
+TIME	121.852
+SIM_END		Examples_FS/FS_Competition_Germany_2006	121.848s	1447.28m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:25:56
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		Vehicle start position on route corrected from 0.000 m to 5.200 m because of attached trailer
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	8.077
+ERROR		Trailer articulation angle too large (alpha= 70.04deg >  70.00deg)
+SIM_ABORT	Examples_FS/FS_Competition_Germany_2006	8.079s	29.4876m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:26:34
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		Vehicle start position on route corrected from 0.000 m to 5.200 m because of attached trailer
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	8.077
+ERROR		Trailer articulation angle too large (alpha= 70.04deg >  70.00deg)
+SIM_ABORT	Examples_FS/FS_Competition_Germany_2006	8.079s	29.4876m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:27:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		Vehicle start position on route corrected from 0.000 m to 5.200 m because of attached trailer
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	3.578
+ERROR		Trailer articulation angle too large (alpha= 70.08deg >  70.00deg)
+SIM_ABORT	Examples_FS/FS_Competition_Germany_2006	3.58s	10.5258m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:27:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		Vehicle start position on route corrected from 0.000 m to 5.200 m because of attached trailer
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	18.606
+ERROR		Trailer articulation angle too large (alpha= 70.03deg >  70.00deg)
+SIM_ABORT	Examples_FS/FS_Competition_Germany_2006	18.608s	170.389m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:29:34
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		Vehicle start position on route corrected from 0.000 m to 5.200 m because of attached trailer
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	600.005
+SIM_END		Examples_FS/FS_Competition_Germany_2006	600.004s	6155.49m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-02-22 15:47:26
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		Vehicle start position on route corrected from 0.000 m to 5.200 m because of attached trailer
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	56.802
+SIM_END		Examples_FS/FS_Competition_Germany_2006	56.798s	552.056m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 15:48:31
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	17.585
+SIM_END		Examples_FS/FS_Competition_SkidPad	17.581s	0.000594508m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 15:49:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	22.481
+SIM_END		Examples_FS/FS_Competition_SkidPad	22.477s	223.503m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 15:49:33
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.694
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.693s	263.603m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 15:54:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	5.245
+ERROR		Vehicle leaves road at about x=25.1122, y=-16.6859 TireNo=0
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad	5.247s	34.7118m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 15:54:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	5.245
+ERROR		Vehicle leaves road at about x=25.1122, y=-16.6859 TireNo=0
+SIM_ABORT	Examples_FS/FS_Competition_SkidPad	5.247s	34.7118m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:13:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.697
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.696s	263.575m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:23:54
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.687
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.686s	263.577m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:25:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.686
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.685s	263.619m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:41:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.683
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.682s	263.657m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:42:34
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	27.599
+SIM_END		Examples_FS/FS_Competition_SkidPad	27.598s	263.167m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:52:23
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	27.599
+SIM_END		Examples_FS/FS_Competition_SkidPad	27.598s	263.167m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:53:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	27.599
+SIM_END		Examples_FS/FS_Competition_SkidPad	27.598s	263.167m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:57:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	27.599
+SIM_END		Examples_FS/FS_Competition_SkidPad	27.598s	263.167m
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_SkidPad	2017-02-22 16:59:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_SkidPad
+
+TIME	25.683
+SIM_END		Examples_FS/FS_Competition_SkidPad	25.682s	263.657m

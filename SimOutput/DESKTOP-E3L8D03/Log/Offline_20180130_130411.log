@@ -1,0 +1,734 @@
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-01-30 13:05:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.455
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.454s	771.611m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-30 14:28:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	56.964
+SIM_END		unknown	56.96s	921.368m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-30 14:29:49
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	8.875
+ERROR		Vehicle leaves road at about x=142.19, y=-24.6029 TireNo=0
+SIM_ABORT	unknown	8.877s	185.605m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-30 14:30:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.952
+		Lap   1: t=  20.951s	Dist=357.4431m	sRoad=0.9789m
+SIM_END		unknown	21.2s	360.887m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-30 14:30:51
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.945
+		Lap   1: t=  20.944s	Dist=357.1935m	sRoad=0.9785m
+TIME	41.096
+		Lap   2: t=  20.151s	Dist=359.2948m	sRoad=0.9707m
+TIME	51.354
+SIM_END		unknown	51.35s	924.009m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-30 14:31:55
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.945
+		Lap   1: t=  20.944s	Dist=357.1935m	sRoad=0.9785m
+TIME	30.003
+SIM_END		unknown	30.002s	552.01m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	2018-01-30 15:10:24
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical
+
+TIME	11.104
+SIM_END		Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	11.1s	16.7592m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	2018-01-30 15:10:49
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical
+
+TIME	18.308
+ERROR		Vehicle leaves road at about x=43.9696, y=4.00046 TireNo=0
+SIM_ABORT	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	18.31s	44.6956m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	2018-01-30 15:11:44
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical
+
+TIME	13.574
+SIM_END		Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	13.57s	33.8782m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	2018-01-30 15:12:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical
+
+TIME	3.662
+ERROR		Vehicle leaves road at about x=11.7539, y=-4.00056 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	3.664s	10.7133m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	2018-01-30 15:13:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical
+
+TIME	3.662
+ERROR		Vehicle leaves road at about x=11.7539, y=-4.00056 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/Ride/BumpsUnsymmetrical	3.664s	10.7133m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/Bumps	2018-01-30 15:15:54
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/Bumps
+
+TIME	35.214
+SIM_END		Examples/VehicleDynamics/Ride/Bumps	35.21s	86.8843m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/Waves	2018-01-30 15:26:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/Waves
+
+TIME	3.651
+ERROR		Vehicle leaves road at about x=11.728, y=-4.00066 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/Ride/Waves	3.653s	10.6934m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/Waves	2018-01-30 15:28:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/Waves
+
+TIME	28.684
+SIM_END		Examples/VehicleDynamics/Ride/Waves	28.68s	118.889m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/Waves	2018-01-30 15:32:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		IPGDriver: StWhlAngleMax too small (0.000000deg), has to be bigger than 1 deg. (id=325)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Examples/VehicleDynamics/Ride/Waves	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Ride/Waves	2018-01-30 15:32:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Ride/Waves
+
+TIME	39.333
+ERROR		Vehicle leaves road at about x=109.334, y=-4.00013 TireNo=1
+SIM_ABORT	Examples/VehicleDynamics/Ride/Waves	39.335s	107.544m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SinusSteering	2018-01-30 15:44:23
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SinusSteering
+
+TIME	68.003
+SIM_END		Examples/VehicleDynamics/Handling/SinusSteering	68.002s	1390.11m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SinusSteering	2018-01-30 15:54:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SinusSteering
+
+TIME	61.781
+SIM_END		Examples/VehicleDynamics/Handling/SinusSteering	61.78s	1546.12m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	ModelCheck	2018-01-30 17:29:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+SIM_END		ModelCheck	0.002s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	ModelCheck	2018-01-30 17:31:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+SIM_END		ModelCheck	0.002s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 17:38:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	47.558
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	47.557s	846.91m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 17:41:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	41.474
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	41.47s	712.588m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 17:43:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	62.381
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	62.38s	1176.66m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	ModelCheck	2018-01-30 18:03:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+SIM_END		ModelCheck	0.002s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 18:04:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	73.844
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	73.84s	1431.92m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 18:33:44
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	63.734
+ERROR		Roll angle too high (80.20 deg)
+SIM_ABORT	Examples/VehicleDynamics/Handling/SteerStep	63.736s	1162.22m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 18:38:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	76.845
+ERROR		Roll angle too high (80.14 deg)
+SIM_ABORT	Examples/VehicleDynamics/Handling/SteerStep	76.847s	1353.59m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 18:40:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	52.194
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	52.19s	1302.56m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-30 18:41:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	53.994
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	53.99s	1262.66m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-01-31 09:18:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.530
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.529s	771.611m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 15:12:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	15.052
+SIM_END		unknown	15.051s	266.209m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 15:16:19
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	14.992
+ERROR		Vehicle leaves road at about x=153.959, y=-21.95 TireNo=1
+SIM_ABORT	unknown	14.994s	199.78m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 15:19:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.895
+SIM_END		unknown	16.894s	266.549m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 15:44:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.895
+SIM_END		unknown	16.894s	266.549m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	ModelCheck	2018-01-31 15:54:32
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+SIM_END		ModelCheck	0.002s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 16:05:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.895
+SIM_END		unknown	16.894s	266.549m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 16:12:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.895
+SIM_END		unknown	16.894s	266.549m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 16:15:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.895
+SIM_END		unknown	16.894s	266.549m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 16:44:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.889
+SIM_END		unknown	16.888s	266.52m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 17:34:03
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	15.626
+SIM_END		unknown	15.625s	241.225m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 17:40:00
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	15.590
+SIM_END		unknown	15.589s	241.296m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 18:14:24
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	15.404
+SIM_END		unknown	15.403s	241.403m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	unknown	2018-01-31 18:18:05
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	unknown
+
+TIME	18.908
+SIM_END		unknown	18.907s	241.104m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	SteerImpulse	2018-01-31 19:47:47
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+ERROR		No route at vehicle start position 1000m (max. 500.00m)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	SteerImpulse	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	SteerImpulse	2018-01-31 19:57:41
+TIME	0.001
+ERROR		No route at vehicle start position 1000m (max. 1000.00m)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	SteerImpulse	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-31 20:00:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	75.314
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	75.31s	1205.42m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Examples/VehicleDynamics/Handling/SteerStep	2018-01-31 20:02:44
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples/VehicleDynamics/Handling/SteerStep
+
+TIME	48.470
+SIM_END		Examples/VehicleDynamics/Handling/SteerStep	48.469s	605.068m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-01 20:57:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-01 21:01:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-01 21:03:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-01 21:06:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-01 21:09:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-01 21:13:00
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 10:41:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 10:44:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 10:57:25
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 10:59:36
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.114
+ERROR		RoadSensor Geo:  xyz (168.65 -48.46 0.09) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.116s	197.735m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 11:03:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.154
+ERROR		RoadSensor Geo:  xyz (168.64 -48.47 0.10) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.156s	197.874m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 11:05:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	12.154
+ERROR		RoadSensor Geo:  xyz (168.64 -48.47 0.10) not found on Road
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	12.156s	197.874m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-02 11:10:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+
+TIME	4.503
+SIM_END		axxxplot	4.502s	94.4124m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-02 11:12:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+
+TIME	4.503
+SIM_END		axxxplot	4.502s	91.1616m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	axxxplot	2018-02-02 11:14:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	axxxplot
+
+TIME	4.503
+SIM_END		axxxplot	4.502s	96.3361m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 11:14:53
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.476
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.475s	771.601m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 11:18:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.529
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.528s	771.556m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 11:22:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	11.802
+ERROR		Vehicle leaves road at about x=169.615, y=-44.3107 TireNo=0
+SIM_ABORT	FS_Competition_Germany_2006_ELD_racedriver_maby2	11.804s	191.222m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 11:50:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.476
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.475s	771.601m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 11:53:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.529
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.528s	772.218m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 15:33:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.476
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.475s	771.601m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 15:37:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.469
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.468s	771.601m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	FS_Competition_Germany_2006_ELD_racedriver_maby2	2018-02-02 15:46:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	FS_Competition_Germany_2006_ELD_racedriver_maby2
+
+TIME	48.486
+SIM_END		FS_Competition_Germany_2006_ELD_racedriver_maby2	48.485s	771.623m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Road_disturbances_test	2018-02-02 16:12:51
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Road_disturbances_test
+
+TIME	14.471
+ERROR		Vehicle leaves road at about x=135.255, y=-31.3287 TireNo=0
+SIM_ABORT	Road_disturbances_test	14.473s	207.5m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	Road_disturbances_test	2018-02-02 16:14:35
+TIME	0.001
+		Road: route 0 - no path definition -> creating path automatically
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Road_disturbances_test
+
+TIME	18.322
+SIM_END		Road_disturbances_test	18.321s	241.753m

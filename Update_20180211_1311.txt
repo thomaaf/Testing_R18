@@ -1,0 +1,26 @@
+Logfile - Project update to CarMaker 6.0.3
+===============================================================================
+
+Start: 2018-02-11 13:11:50
+
+Cleaning up temporary files...
+  >> Finished.
+
+Creating backup ...
+  -  Copy source code files...
+  >> Finished.
+
+Deleting old template files...
+  >> Finished.
+
+Copying new files to project directory...
+  >> Finished.
+
+Searching for old files in project directory...
+  >> Finished.
+
+-------------------------------------------------------------------------------
+Update finished successfully. No errors occured
+-------------------------------------------------------------------------------
+
+End: 2018-02-11 13:12:03

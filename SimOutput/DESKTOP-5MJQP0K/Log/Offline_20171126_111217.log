@@ -1,0 +1,261 @@
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skidpad_ELD	2017-11-26 11:23:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		Missing entry 'PowerTrain.Motor.Mot.TrqMap', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.Motor.VoltageLevel', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	skidpad_ELD	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 11:39:38
+TIME	0.001
+ERROR		Tire: Can't read file 'Data/Tire/Examples/CONTINENTAL_FS_205_510_R13_80kPa': No such file or directory
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		Missing entry 'PowerTrain.Motor.Mot.TrqMap', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.Motor.VoltageLevel', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	skid	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 11:40:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		Missing entry 'PowerTrain.Motor.Mot.TrqMap', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.Motor.VoltageLevel', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	skid	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 11:41:12
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		Missing entry 'PowerTrain.Motor.Mot.TrqMap', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017_aero2'
+ERROR		No entry 'PowerTrain.Motor.VoltageLevel', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017_aero2'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017_aero2'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	skid	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 11:41:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		Missing entry 'PowerTrain.Motor.Mot.TrqMap', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.Motor.VoltageLevel', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'E:/CM_Projects/TestProject/Data/Vehicle/Revolve2017'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	skid	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 12:33:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.153
+SIM_END		skid	26.152s	593.41m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 12:34:38
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.153
+SIM_END		skid	26.152s	593.41m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 12:37:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.153
+SIM_END		skid	26.152s	593.41m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 12:47:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skid
+
+TIME	26.153
+SIM_END		skid	26.152s	593.41m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 12:48:44
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.779
+ERROR		Vehicle leaves road at about x=8.5928, y=44.0101 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.781s	2257.04m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 14:24:37
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.779
+ERROR		Vehicle leaves road at about x=8.5928, y=44.0101 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.781s	2257.04m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 14:31:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.779
+ERROR		Vehicle leaves road at about x=8.5928, y=44.0101 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.781s	2257.04m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 14:39:54
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.775
+ERROR		Vehicle leaves road at about x=14.0075, y=47.9217 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.777s	2256.74m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 14:48:32
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.775
+ERROR		Vehicle leaves road at about x=14.0075, y=47.9217 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.777s	2256.74m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 15:08:31
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.775
+ERROR		Vehicle leaves road at about x=14.0075, y=47.9217 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.777s	2256.74m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 15:13:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.775
+ERROR		Vehicle leaves road at about x=14.0075, y=47.9217 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.777s	2256.74m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 15:18:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.775
+ERROR		Vehicle leaves road at about x=14.0075, y=47.9217 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.777s	2256.74m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 15:23:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.775
+ERROR		Vehicle leaves road at about x=14.0075, y=47.9217 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.777s	2256.74m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 15:26:32
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	212.775
+ERROR		Vehicle leaves road at about x=14.0075, y=47.9217 TireNo=1
+SIM_ABORT	r25m_circle_ELD_slowAcc	212.777s	2256.74m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	r25m_circle_ELD_slowAcc	2017-11-26 15:36:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	r25m_circle_ELD_slowAcc
+
+TIME	213.633
+ERROR		RoadSensor Geo:  xyz (-20.09 46.53 0.04) not found on Road
+SIM_ABORT	r25m_circle_ELD_slowAcc	213.635s	2287.05m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skid	2017-11-26 15:41:33
+TIME	0.001
+ERROR		Tire: Can't read file 'Data/Tire/Examples/CONTINENTAL_FS_205_510_R13_80kPa': No such file or directory
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	skid	0s	0m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skidpad_ELD	2017-11-26 15:42:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	22.627
+SIM_END		skidpad_ELD	22.626s	263.076m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skidpad_ELD	2017-11-26 15:43:16
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	22.627
+SIM_END		skidpad_ELD	22.626s	263.076m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	skidpad_ELD	2017-11-26 16:05:39
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	skidpad_ELD
+
+TIME	22.627
+SIM_END		skidpad_ELD	22.626s	263.076m
+APPLICATION	CarMaker 6.0.3 - Car_Generic #36 (6.0.3)
+COMPILED	pt@pluto.ipg 2017-09-27 12:36:15
+SIM_START	qp_err_detection	2017-11-26 16:07:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	qp_err_detection
+
+TIME	23.097
+ERROR		RoadSensor Geo:  xyz (-28.79 33.80 0.02) not found on Road
+SIM_ABORT	qp_err_detection	23.099s	259.775m

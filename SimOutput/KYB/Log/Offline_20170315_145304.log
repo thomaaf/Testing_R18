@@ -1,0 +1,28 @@
+APPLICATION	CarMaker 5.1.2 - Car_Generic #644 (5.1.2)
+COMPILED	fh@daniel.ipg 2016-08-15 11:58:04
+SIM_START	Examples_FS/FS_Competition_Germany_2006	2017-03-15 14:54:21
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+TIME	0.000
+SIMULATE	Examples_FS/FS_Competition_Germany_2006
+
+TIME	66.872
+		Lap   1: t=  66.871s	Dist=775.5769m	sRoad=1.0713m
+TIME	132.393
+		Lap   2: t=  65.521s	Dist=777.5529m	sRoad=1.0778m
+TIME	197.864
+		Lap   3: t=  65.471s	Dist=777.5290m	sRoad=1.0758m
+TIME	263.337
+		Lap   4: t=  65.473s	Dist=777.5322m	sRoad=1.0754m
+TIME	328.810
+		Lap   5: t=  65.473s	Dist=777.5301m	sRoad=1.0713m
+TIME	394.279
+		Lap   6: t=  65.469s	Dist=777.5341m	sRoad=1.0749m
+TIME	459.750
+		Lap   7: t=  65.471s	Dist=777.5342m	sRoad=1.0762m
+TIME	525.222
+		Lap   8: t=  65.472s	Dist=777.5299m	sRoad=1.0724m
+TIME	590.693
+		Lap   9: t=  65.471s	Dist=777.5359m	sRoad=1.0755m
+TIME	600.005
+SIM_END		Examples_FS/FS_Competition_Germany_2006	600.004s	7103.15m
